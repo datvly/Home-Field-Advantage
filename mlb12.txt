@@ -1,0 +1,2469 @@
+Major League Baseball
+2012
+2012-03-28 Athletics  1     Mariners  3  O2  Tokyo, Japan 
+2012-03-29 Mariners   1  Athletics   4  Tokyo, Japan 
+2012-04-04  @Marlins    1    Cardinals   4   
+2012-04-05  Braves   0 @Mets   1 
+2012-04-05    Phillies  1    @Pirates    0  
+2012-04-05  @Cubs  1     Nationals   2 
+2012-04-05     @Reds  4 Marlins  0  
+2012-04-05 Dodgers  5  @Padres     3   
+2012-04-05   Red Sox   2   @Tigers  3   
+2012-04-05   @Indians    4 Blue Jays  7 O7 
+2012-04-06  @Brewers     5 Cardinals   11 
+2012-04-06 Giants  4 @Diamondbacks  5 
+2012-04-06     Rockies  5   @Astros   3 
+2012-04-06     Dodgers  6 @Padres  0 
+2012-04-06 @Rangers     3  White Sox   2 
+2012-04-06  @Orioles    4   Twins  2 
+2012-04-06 @Rays  7 Yankees     6 
+2012-04-06  Royals   0  @Angels  5 
+2012-04-06 @Athletics  3 Mariners   7  
+2012-04-07       Nationals   7 @Cubs  4  
+2012-04-07 Braves  2 @Mets     4  
+2012-04-07  Phillies  1   @Pirates   2 O1    
+2012-04-07 Rockies  3   @Astros   7 
+2012-04-07  @Reds  3   Marlins  8 
+2012-04-07 Cardinals    0 @Brewers  6  
+2012-04-07  @Diamondbacks  5 Giants     4   
+2012-04-07   @Padres   5 Dodgers     6  O2  
+2012-04-07      @Indians  4 Blue Jays  7 O3  
+2012-04-07 @Tigers  10    Red Sox  0    
+2012-04-07  Royals    6   @Angels     3  
+2012-04-07  @Orioles    8   Twins      2  
+2012-04-07    @Rays   8 Yankees  6   
+2012-04-07  @Rangers    3     White Sox   4 
+2012-04-07 @Athletics     7 Mariners   8   
+2012-04-08 @Reds    6     Marlins  5 
+2012-04-08       @Mets  7   Braves    5   
+2012-04-08 @Pirates  5   Phillies  4 
+2012-04-08  Rockies    2  @Astros   3 
+2012-04-08 Cardinals   9  @Brewers  3 
+2012-04-08  Nationals  3    @Cubs     4   
+2012-04-08  @Padres   8  Dodgers  4 
+2012-04-08    Giants   6 @Diamondbacks     7 
+2012-04-08       Blue Jays   3   @Indians   4 
+2012-04-08 Red Sox  12   @Tigers      13   O2 
+2012-04-08 @Orioles   3 Twins   1 
+2012-04-08   @Rays   3 Yankees   0 
+2012-04-08 Royals   7 @Angels    3  
+2012-04-08 @Rangers   5 White Sox  0 
+2012-04-09 @Phillies  2   Marlins   6 
+2012-04-09 Giants  7   @Rockies  0 
+2012-04-09      @Cubs  5  Brewers  7     
+2012-04-09    @Reds   1 Cardinals  7 
+2012-04-09  @Mets  4   Nationals  3 
+2012-04-09   @Astros  8   Braves  3    
+2012-04-09  Angels    5 @Twins     1  
+2012-04-09 White Sox   4   @Indians  2  
+2012-04-09   @Orioles    2  Yankees  6     
+2012-04-09  Red Sox     4   @Blue Jays    2    
+2012-04-09 @Rangers    11 Mariners    5  
+2012-04-09 Royals   0 @Athletics   1 
+2012-04-10   @Dodgers      2 Pirates  1 
+2012-04-10 Nationals    6  @Mets   2   
+2012-04-10 Cardinals   3  @Reds   1  
+2012-04-10 Braves   6 @Astros  4 
+2012-04-10 @Cubs  4  Brewers      7 
+2012-04-10  Diamondbacks  4  @Padres     2 O2      
+2012-04-10    @Tigers  5   Rays  2   
+2012-04-10    Yankees     5 @Orioles    4 O3 
+2012-04-10 @Blue Jays    7  Red Sox  3    
+2012-04-10 @Rangers   1   Mariners  0 
+2012-04-10 Royals   3   @Athletics    0    
+2012-04-11 @Reds   4   Cardinals   3 
+2012-04-11   @Mets  0 Nationals  4  
+2012-04-11    Braves  6  @Astros   3 
+2012-04-11 @Cubs    1  Brewers  2   
+2012-04-11   @Padres  2 Diamondbacks   1 
+2012-04-11 Marlins      1 @Phillies  7  
+2012-04-11  Giants  8  @Rockies  17    
+2012-04-11   @Dodgers  4  Pirates    1   
+2012-04-11   @Indians     6   White Sox  10 
+2012-04-11   Red Sox   1  @Blue Jays    3 
+2012-04-11     Rays     4    @Tigers   2   
+2012-04-11  Royals   4  @Athletics  5  O3  
+2012-04-11  @Orioles   4 Yankees  6 O1 
+2012-04-11  @Rangers   3   Mariners  4 
+2012-04-11 Angels   5 @Twins  6  
+2012-04-12     Reds   2  @Nationals      3 O1  
+2012-04-12  Brewers  0     @Cubs      8  
+2012-04-12    @Rockies    2 Giants  4    
+2012-04-12  @Phillies  3 Marlins    1 
+2012-04-12  @Padres  1 Diamondbacks   3   
+2012-04-12    Pirates  2 @Dodgers  3 
+2012-04-12 @Tigers  7    Rays   2    
+2012-04-12 Angels       9 @Twins  10   
+2012-04-12  @Rangers     5  Mariners  3 
+2012-04-13 @Cardinals    5  Cubs     9       
+2012-04-13 @Giants  5      Pirates  0 
+2012-04-13 @Phillies   2   Mets   5  
+2012-04-13 @Nationals  2 Reds  1 O4    
+2012-04-13  @Marlins   5 Astros   4 O2 
+2012-04-13 Brewers      8 @Braves  10 
+2012-04-13  Diamondbacks  6  @Rockies      7  
+2012-04-13  @Dodgers  9    Padres     8    
+2012-04-13 Angels  0 @Yankees    5  
+2012-04-13 Rays   2 @Red Sox   12   
+2012-04-13  Tigers   2  @White Sox   5  
+2012-04-13    Indians      8      @Royals  3 
+2012-04-13 Orioles  7  @Blue Jays  5    
+2012-04-13   @Twins  1   Rangers     4  
+2012-04-13 @Mariners    0        Athletics     4     
+2012-04-14   @Cardinals   5    Cubs       1 
+2012-04-14    Mets   5    @Phillies  0 
+2012-04-14  @Nationals   4   Reds   1   
+2012-04-14 @Braves  2 Brewers  1 
+2012-04-14  @Marlins  4 Astros   5 
+2012-04-14  Diamondbacks  7 @Rockies   8 
+2012-04-14 Pirates    3   @Giants   4 
+2012-04-14  Padres   1 @Dodgers   6      
+2012-04-14     Angels  7  @Yankees   1   
+2012-04-14  Rangers  6    @Twins   2  
+2012-04-14  Rays     5 @Red Sox  13  
+2012-04-14 Orioles  6   @Blue Jays  4 
+2012-04-14   Tigers  1 @White Sox   5  
+2012-04-14  Indians    11   @Royals   9   O1      
+2012-04-14    @Mariners    4    Athletics  0  
+2012-04-15 @Marlins  5 Astros     4 O2 
+2012-04-15   @Phillies  8 Mets     2 
+2012-04-15  Reds        8     @Nationals    5 O2 
+2012-04-15   Brewers  4 @Braves   7 
+2012-04-15   Cubs         3 @Cardinals   10 
+2012-04-15   Diamondbacks    5 @Rockies  2   
+2012-04-15 @Giants  1      Pirates    4 
+2012-04-15   @Dodgers      5 Padres     4 
+2012-04-15  Orioles  2 @Blue Jays   9  
+2012-04-15  Rays   4    @Red Sox   6 
+2012-04-15   @White Sox       2 Tigers    5   
+2012-04-15  @Royals  7  Indians  13  
+2012-04-15 @Twins   3     Rangers  4  
+2012-04-15  Athletics  3 @Mariners     5      
+2012-04-15     @Yankees   11 Angels  5     
+2012-04-16       @Nationals   6 Astros  3 
+2012-04-16  Mets   6 @Braves  1 
+2012-04-16 @Rockies    1 Padres    7  
+2012-04-16 @Diamondbacks       5  Pirates  1     
+2012-04-16       @Giants   2    Phillies  5    
+2012-04-16  Rays    1 @Red Sox   0 
+2012-04-16 @Yankees    3   Twins  7 
+2012-04-16  @Royals  2 Tigers       3  
+2012-04-16 Orioles  10     @White Sox  4  O1   
+2012-04-16 @Angels     6    Athletics   0 
+2012-04-17  Astros      0 @Nationals       1      
+2012-04-17 @Marlins   5 Cubs  2     
+2012-04-17 Mets     3 @Braves   9 
+2012-04-17 @Brewers      5 Dodgers  4    
+2012-04-17  Reds  1 @Cardinals   2   O1 
+2012-04-17    @Rockies   5 Padres  3   
+2012-04-17 @Diamondbacks    4  Pirates   5   
+2012-04-17   @Giants   4   Phillies  2 
+2012-04-17  @Yankees    8  Twins   3 
+2012-04-17 @Blue Jays  7  Rays   3  
+2012-04-17  @Red Sox   3   Rangers  18 
+2012-04-17  Tigers  3  @Royals   1   
+2012-04-17 @White Sox  2    Orioles  3   
+2012-04-17     @Angels  3   Athletics  5 
+2012-04-17  Indians  9  @Mariners  8 
+2012-04-18      @Braves    14 Mets  6  
+2012-04-18 Pirates  2 @Diamondbacks    1      
+2012-04-18   Astros     2   @Nationals   3     
+2012-04-18 @Marlins   9   Cubs  1  
+2012-04-18 Dodgers  2  @Brewers   3        O1  
+2012-04-18   @Cardinals  11  Reds      1 
+2012-04-18 @Rockies       8   Padres    4     
+2012-04-18  @Giants   1 Phillies   0 O2  
+2012-04-18 Twins  6  @Yankees   5    
+2012-04-18  Rays  12 @Blue Jays  2 
+2012-04-18    Rangers   6 @Red Sox  3 
+2012-04-18   @White Sox     8     Orioles   1    
+2012-04-18  Tigers     4 @Royals   3 
+2012-04-18  @Angels    0 Athletics    6   
+2012-04-18    @Mariners   4 Indians   1  
+2012-04-19  Cubs   3 @Marlins  5 
+2012-04-19 @Brewers   3   Dodgers  4   
+2012-04-19 Reds      6   @Cardinals    3     
+2012-04-19 @Nationals    4 Astros      11      
+2012-04-19 @Diamondbacks   2  Braves  10 
+2012-04-19 @Padres       0 Phillies  2 
+2012-04-19  Orioles  5 @White Sox    3   
+2012-04-19 Rangers  10  @Tigers   3      
+2012-04-19   Twins  6 @Yankees  7 
+2012-04-19 Rays      9 @Blue Jays    4  
+2012-04-19 Athletics  4 @Angels  2 
+2012-04-19    Indians   2 @Mariners     1  
+2012-04-20 @Cubs  4 Reds  9  
+2012-04-20    @Pirates  1 Cardinals  4  
+2012-04-20  Marlins      0 @Nationals    2 
+2012-04-20    @Mets   3  Giants   4   O1  
+2012-04-20 Dodgers   3  @Astros  1    
+2012-04-20   Rockies  4  @Brewers  3    
+2012-04-20  Braves  9 @Diamondbacks    1  
+2012-04-20 @Padres   1 Phillies  4  
+2012-04-20 @Red Sox  2 Yankees    6 
+2012-04-20 Twins  5 @Rays       4 
+2012-04-20 @Royals  3  Blue Jays  4     
+2012-04-20  Orioles   3 @Angels  6  
+2012-04-20  @Athletics  3 Indians  4 
+2012-04-20  @Mariners     3 White Sox  7 
+2012-04-21 Reds  1   @Cubs    6 
+2012-04-21  Marlins     2 @Nationals   3 O1   
+2012-04-21   @Mets  5  Giants    4  
+2012-04-21  Dodgers   5  @Astros  1 
+2012-04-21 @Pirates   2 Cardinals      0 
+2012-04-21 Rockies  4  @Brewers   9   
+2012-04-21 @Diamondbacks   2 Braves  3   
+2012-04-21 @Padres  5    Phillies  1 
+2012-04-21 Rangers  10  @Tigers  4   
+2012-04-21   @Red Sox   9  Yankees      15 
+2012-04-21    White Sox  4  @Mariners    0  
+2012-04-21  Blue Jays     9 @Royals  5   
+2012-04-21  @Rays   4 Twins     1  
+2012-04-21 @Athletics  1  Indians     5 
+2012-04-21  @Angels     6  Orioles  3   
+2012-04-21 Rangers   2 @Tigers  3   
+2012-04-22 @Pirates    1  Cardinals   5 
+2012-04-22  Dodgers      0     @Astros      12   
+2012-04-22    @Brewers   1  Rockies  4 
+2012-04-22   Reds   4   @Cubs   3  
+2012-04-22   Phillies   1 @Padres  6 
+2012-04-22  Braves      4 @Diamondbacks      6   
+2012-04-22   Rangers    3   @Tigers  2 O2  
+2012-04-22  @Rays  6   Twins         2 
+2012-04-22 @Royals        3 Blue Jays  5  
+2012-04-22    Orioles  3 @Angels  2  O1  
+2012-04-22 Indians   1    @Athletics   5  
+2012-04-22    White Sox  7  @Mariners   4  
+2012-04-23    @Mets  1  Giants   6   
+2012-04-23    @Cubs   3    Cardinals     2 
+2012-04-23       Astros  5    @Brewers  6      
+2012-04-23  Phillies     5 @Diamondbacks       9 
+2012-04-23    Braves  2   @Dodgers  7  
+2012-04-23  Yankees  7 @Rangers   4  
+2012-04-23     @Royals    1  Blue Jays     4 
+2012-04-23     @Twins  5 Red Sox   6 
+2012-04-23 @Athletics  0    White Sox     4      
+2012-04-23 Giants    7 @Mets     2 
+2012-04-24  Marlins     1 @Mets    2     
+2012-04-24 Giants    2 @Reds   9  
+2012-04-24   @Cubs       3   Cardinals   2 O1  
+2012-04-24 Astros  6  @Brewers  9 
+2012-04-24 Phillies   8 @Diamondbacks     5 
+2012-04-24  @Padres      1   Nationals   3 
+2012-04-24    @Dodgers  3   Braves   4      
+2012-04-24 @Orioles  2  Blue Jays  1  
+2012-04-24 @Indians    4    Royals  3 
+2012-04-24 @Tigers    4  Mariners     7  
+2012-04-24    Angels      0      @Rays     5 
+2012-04-24 @Rangers    2   Yankees  0 
+2012-04-24  @Twins     2  Red Sox  11   
+2012-04-24   White Sox    0 @Athletics     2   
+2012-04-24 @Pirates   5  Rockies   4 
+2012-04-25 Rockies    2  @Pirates  1  
+2012-04-25 @Brewers    5   Astros  7 
+2012-04-25   Cardinals    5 @Cubs   1  
+2012-04-25   @Diamondbacks  2 Phillies   7 
+2012-04-25   @Padres   2  Nationals   7    
+2012-04-25 Giants   2   @Reds   4   
+2012-04-25 @Mets  5 Marlins     1 
+2012-04-25   @Dodgers     2 Braves   4  
+2012-04-25  White Sox     4   @Athletics    5 O5 
+2012-04-25   Blue Jays    0       @Orioles  3  
+2012-04-25  @Tigers    1 Mariners    9  
+2012-04-25 Royals      8 @Indians  2 
+2012-04-25 @Rays   3     Angels  2 
+2012-04-25    Yankees    3 @Rangers  7  
+2012-04-25 @Twins   6 Red Sox   7 
+2012-04-25 @Pirates    5    Rockies  1 
+2012-04-26  @Reds  5    Giants  6      
+2012-04-26 @Mets     3 Marlins    2    
+2012-04-26    Nationals   1  @Padres     2  
+2012-04-26 Royals  4  @Indians  2   
+2012-04-26  @Tigers   4 Mariners      5  
+2012-04-26  @Rays      4 Angels  3  
+2012-04-26  @Orioles  5   Blue Jays    2    
+2012-04-26 @White Sox  3  Red Sox  10  
+2012-04-27   @Phillies  1   Cubs    5  
+2012-04-27 @Reds  4   Astros   6 
+2012-04-27  @Marlins   0 Diamondbacks   5 
+2012-04-27  Pirates    1   @Braves    6 
+2012-04-27      @Cardinals    13 Brewers     1 
+2012-04-27  @Rockies  18 Mets  9  
+2012-04-27 Nationals     2  @Dodgers  3 
+2012-04-27 @Giants      3 Padres     5  
+2012-04-27  @Orioles   2  Athletics  5 
+2012-04-27   @Indians  3  Angels  2 
+2012-04-27    @Yankees  7 Tigers     6  
+2012-04-27 Mariners  9  @Blue Jays     5  O1 
+2012-04-27 Rays    8     @Rangers  4   
+2012-04-27   @Twins  6 Royals    7 
+2012-04-27  Red Sox     10  @White Sox    3  
+2012-04-28 Brewers  3  @Cardinals     7  
+2012-04-28 @Giants  2  Padres   1    
+2012-04-28  Astros   0 @Reds  6 
+2012-04-28 Cubs  2 @Phillies    5  
+2012-04-28    @Braves    2 Pirates  4 
+2012-04-28 @Marlins  3      Diamondbacks     2   
+2012-04-28 @Rockies  5  Mets  7   
+2012-04-28   @Dodgers   4 Nationals  3  O1 
+2012-04-28 @Indians  1  Angels   2  
+2012-04-28     Tigers     7  @Yankees  5 
+2012-04-28 Mariners   0  @Blue Jays   7  
+2012-04-28 Athletics  1 @Orioles   10 
+2012-04-28 @White Sox  0 Red Sox   1    
+2012-04-28  Rays  2    @Rangers  7    
+2012-04-29  Diamondbacks  8  @Marlins    4 
+2012-04-29     @Reds   6 Astros  5   
+2012-04-29   @Phillies  1 Cubs    5  
+2012-04-29 Pirates  3 @Braves   4  
+2012-04-29    Brewers   3    @Cardinals   2  
+2012-04-29  Mets  6    @Rockies  5  O2   
+2012-04-29 Padres   1  @Giants   4 
+2012-04-29  Nationals      0 @Dodgers    2 
+2012-04-29 Angels   0    @Indians  4 
+2012-04-29  @Yankees    6   Tigers  2   
+2012-04-29   Mariners     2 @Blue Jays      7    
+2012-04-29 @Orioles  5  Athletics   2  
+2012-04-29 @Twins   7  Royals     4 
+2012-04-29  @White Sox  4 Red Sox  1  
+2012-04-29 @Rangers  2     Rays    5    
+2012-04-30 @Marlins   5  Diamondbacks  9 
+2012-04-30  @Phillies   6 Cubs        4  
+2012-04-30  @Braves   3    Pirates  9 
+2012-04-30  @Astros   4        Mets     3  
+2012-04-30 Dodgers   2  @Rockies  6 
+2012-04-30  @Padres  3  Brewers      8 
+2012-04-30  @Yankees    2  Orioles  1 
+2012-04-30 Rangers     4    @Blue Jays   1 
+2012-04-30 @Red Sox   11 Athletics   6 
+2012-04-30  Mariners  2  @Rays  3     O3 
+2012-04-30   Twins    3  @Angels    4     
+2012-05-01 @Nationals   1  Diamondbacks       5 
+2012-05-01   @Braves   2    Phillies    4 
+2012-05-01  @Astros   6  Mets    3  
+2012-05-01  @Cardinals      10     Pirates   7     
+2012-05-01  @Rockies  6 Dodgers    7    
+2012-05-01    Brewers   0   @Padres   2     
+2012-05-01  @Giants  1 Marlins  2 
+2012-05-01 @Yankees     1   Orioles   7   
+2012-05-01   @Blue Jays    8 Rangers  7 
+2012-05-01  Athletics       5  @Red Sox    3 
+2012-05-01 @Rays  3     Mariners  1   
+2012-05-01   @White Sox    7       Indians  2    
+2012-05-01 @Angels   4  Twins   0 
+2012-05-01 Royals  3   @Tigers  9 
+2012-05-02 Mets      1  @Astros   8   
+2012-05-02  Dodgers     5    @Rockies  8  
+2012-05-02   Brewers   0     @Padres   5  
+2012-05-02 @Nationals     5  Diamondbacks    4 
+2012-05-02  Cubs   3   @Reds  1  
+2012-05-02       @Braves       15   Phillies  13   O2    
+2012-05-02   Pirates     3   @Cardinals   12   
+2012-05-02 Marlins  3  @Giants       2  O1  
+2012-05-02   Rangers  5 @Blue Jays   11 
+2012-05-02 Royals  3 @Tigers  2  
+2012-05-02 Orioles  5 @Yankees   0  
+2012-05-02 @Red Sox   2 Athletics     4   
+2012-05-02 Mariners   4 @Rays  5  
+2012-05-02  @White Sox    3    Indians  6  
+2012-05-02 Twins     0 @Angels  9 
+2012-05-03  Phillies   4   @Braves   0 
+2012-05-03  @Reds  4 Cubs  3  O1 
+2012-05-03 @Cardinals   3      Pirates   6 
+2012-05-03 @Giants    2 Marlins      3  
+2012-05-03 @Nationals    2  Diamondbacks    1    
+2012-05-03 @Rays   4 Mariners   3   
+2012-05-03  @White Sox     5 Indians  7 
+2012-05-03 @Royals    4    Yankees   3     
+2012-05-03 @Angels   0     Blue Jays  5 
+2012-05-04 Dodgers     4  @Cubs   5 
+2012-05-04 Reds  6 @Pirates   1  
+2012-05-04       @Nationals   4  Phillies   3  O2   
+2012-05-04  @Mets   4   Diamondbacks   5  
+2012-05-04 Cardinals    4  @Astros    5 
+2012-05-04   @Rockies   8 Braves  9 O2    
+2012-05-04 Marlins  9  @Padres  8  O3      
+2012-05-04    @Giants   4  Brewers     6   
+2012-05-04 Rangers    3 @Indians   6   
+2012-05-04 @Tigers   5 White Sox    4    
+2012-05-04 Orioles       6 @Red Sox  4 O4  
+2012-05-04 Athletics      2 @Rays   7  
+2012-05-04  Yankees  6 @Royals    2     
+2012-05-04  Blue Jays  4  @Angels  0 
+2012-05-04  Twins   3 @Mariners    2  
+2012-05-05 @Nationals    7   Phillies       1 
+2012-05-05     Dodgers   5    @Cubs  1  
+2012-05-05 @Mets   4    Diamondbacks  3  
+2012-05-05  @Giants      5  Brewers   2  
+2012-05-05  Reds  2     @Pirates  3 
+2012-05-05 @Astros    8 Cardinals  2 
+2012-05-05   Braves    13 @Rockies   9   
+2012-05-05      @Padres   1   Marlins   4   
+2012-05-05 White Sox  3  @Tigers      2  
+2012-05-05 @Red Sox  2 Orioles   8 
+2012-05-05  Rangers     5 @Indians  2   O2 
+2012-05-05   Yankees     1 @Royals   5 
+2012-05-05 @Rays   3  Athletics   4 O3 
+2012-05-05  Blue Jays     2    @Angels      6 
+2012-05-05  @Mariners    7  Twins     0   
+2012-05-06 @Mets   3    Diamondbacks  1  
+2012-05-06    Reds   5  @Pirates     0 
+2012-05-06    Cardinals  8 @Astros  1 
+2012-05-06      @Cubs  4 Dodgers  3      O2 
+2012-05-06 Braves    7  @Rockies   2    
+2012-05-06      @Padres     3   Marlins  6    
+2012-05-06    @Giants  4  Brewers   3 O2 
+2012-05-06 Phillies   9 @Nationals    3      
+2012-05-06   Rangers   2  @Indians    4  
+2012-05-06 White Sox  1    @Tigers  3  
+2012-05-06 Orioles  9   @Red Sox  6   O8 
+2012-05-06 Athletics  9   @Rays   5 
+2012-05-06 @Royals  4  Yankees  10      
+2012-05-06  @Angels  4 Blue Jays  3 
+2012-05-06  @Mariners     5    Twins   2  
+2012-05-07   @Phillies  2   Mets   5    
+2012-05-07   Marlins  4  @Astros  0     
+2012-05-07 Braves   1 @Cubs  5 
+2012-05-07    Cardinals     9 @Diamondbacks    6 
+2012-05-07      @Padres   3 Rockies   2 
+2012-05-07 Giants    1  @Dodgers  9 
+2012-05-07   Rangers  14  @Orioles   3  
+2012-05-07  @Indians  8   White Sox     6  
+2012-05-07    @Twins   3      Angels     8 
+2012-05-07 @Royals   5   Red Sox  11    
+2012-05-07  @Mariners   3   Tigers  2 
+2012-05-07  White Sox  2 @Indians     3    
+2012-05-07 Reds   6    @Brewers  1  
+2012-05-08  @Phillies  4  Mets   7 
+2012-05-08  Nationals  4 @Pirates  5  
+2012-05-08 @Cubs   1   Braves    3 
+2012-05-08  Marlins    2 @Astros      3   
+2012-05-08    @Diamondbacks   1 Cardinals   6  
+2012-05-08 Rockies     1  @Padres  3 
+2012-05-08 Giants  2 @Dodgers      1   
+2012-05-08  @Orioles  3  Rangers  10   
+2012-05-08 Rays    3 @Yankees   5 
+2012-05-08 @Indians   3 White Sox   5    O1  
+2012-05-08 Angels  0     @Twins  5 
+2012-05-08  @Royals    6  Red Sox   4  
+2012-05-08 Tigers   6 @Mariners   4   
+2012-05-08 Reds  3  @Brewers     8  
+2012-05-08  Blue Jays   3 @Athletics    7    
+2012-05-09     @Brewers  1  Reds     2  
+2012-05-09   Marlins  5  @Astros     3  O3    
+2012-05-09 Braves  0    @Cubs  1  
+2012-05-09  Rockies   6 @Padres   2 
+2012-05-09   Cardinals  7 @Diamondbacks    2    
+2012-05-09 Nationals   2 @Pirates     4 
+2012-05-09 Mets     10 @Phillies     6  
+2012-05-09 Giants    2 @Dodgers   6 
+2012-05-09 @Athletics   2  Blue Jays  5 
+2012-05-09   @Yankees  1   Rays  4   
+2012-05-09 White Sox     8  @Indians     1  
+2012-05-09   Angels    6  @Twins  2   
+2012-05-09   @Royals   4  Red Sox    3  
+2012-05-09 @Mariners   2    Tigers  1 
+2012-05-10     @Pirates  2   Nationals     4     
+2012-05-10   Rangers    5   @Orioles  6   
+2012-05-10      @Yankees  5     Rays   3 
+2012-05-10     @Red Sox  3   Indians    8 
+2012-05-10 Blue Jays     6    @Twins    2 
+2012-05-10     @Athletics  6      Tigers   10  
+2012-05-10   @Orioles      3  Rangers   7    
+2012-05-11 Astros   1  @Pirates    0  
+2012-05-11    @Phillies   7  Padres   3  
+2012-05-11     Mets    5  @Marlins   6    
+2012-05-11  @Reds     3 Nationals     7 
+2012-05-11 Cubs  7  @Brewers  8 O4   
+2012-05-11     Braves  9   @Cardinals   7 O3 
+2012-05-11  Giants  1 @Diamondbacks  5  
+2012-05-11 @Dodgers  7    Rockies    3  
+2012-05-11  @Orioles   4  Rays   3    
+2012-05-11   Mariners  2 @Yankees  6 
+2012-05-11  @Red Sox   7  Indians    5  
+2012-05-11 Angels    3 @Rangers   10  
+2012-05-11   @Twins   7 Blue Jays  6  
+2012-05-11 Royals  0  @White Sox     5    
+2012-05-11  Tigers   4   @Athletics     11   
+2012-05-12  Cubs   2 @Brewers       8  
+2012-05-12   Astros  2       @Pirates  5     
+2012-05-12 Padres  2 @Phillies  1 
+2012-05-12 @Reds    1 Nationals  2 
+2012-05-12 @Marlins     3  Mets   9   
+2012-05-12 @Cardinals  2 Braves   7 
+2012-05-12 @Diamondbacks  2 Giants    5 
+2012-05-12 @Dodgers  2 Rockies  1   
+2012-05-12   @Rangers      2 Angels  4  
+2012-05-12 @Yankees  6  Mariners  2   
+2012-05-12  Rays   3   @Orioles      5  
+2012-05-12  Blue Jays       2   @Twins  1 
+2012-05-12  Royals  5 @White Sox     0  
+2012-05-12 Indians      1     @Red Sox  4 
+2012-05-12   Tigers  1 @Athletics   3 
+2012-05-13    @Reds  9 Nationals   6    
+2012-05-13 Mets  4   @Marlins  8  
+2012-05-13   @Pirates  3  Astros  2 O3 
+2012-05-13  Padres  2 @Phillies  3  
+2012-05-13 Cubs   8  @Brewers     2 
+2012-05-13  Braves   7    @Cardinals   4 
+2012-05-13 Rockies   5  @Dodgers      11 
+2012-05-13 Giants  7    @Diamondbacks     3   
+2012-05-13   Mariners   6     @Yankees     2 
+2012-05-13    Rays  9 @Orioles   8  
+2012-05-13  @Red Sox    12  Indians  1  
+2012-05-13    @Twins   4     Blue Jays     3 
+2012-05-13 Royals   9  @White Sox    1  
+2012-05-13 @Athletics  1   Tigers   3    
+2012-05-13 Angels  6   @Rangers       13    
+2012-05-14 @Phillies   5  Astros   1 
+2012-05-14    @Nationals   8    Padres   5  
+2012-05-14 Brewers  1   @Mets     3 
+2012-05-14   @Braves    1 Reds  3    
+2012-05-14  Pirates     3    @Marlins   2 
+2012-05-14   @Cardinals  4  Cubs     6 
+2012-05-14  Diamondbacks     1  @Dodgers  3 
+2012-05-14   Rockies  2    @Giants  3    
+2012-05-14   @Orioles   5   Yankees  8   
+2012-05-14     Rays   7 @Blue Jays  1   
+2012-05-14 Mariners  1   @Red Sox  6      
+2012-05-14     Royals   3  @Rangers   1  
+2012-05-14   @Twins  4 Indians     5 
+2012-05-14 @White Sox  7  Tigers  5  
+2012-05-14 @Angels  0   Athletics    5 
+2012-05-15 @Nationals    1 Padres   6 
+2012-05-15 Astros  3 @Phillies    4  O1     
+2012-05-15  @Cardinals     7  Cubs     6   
+2012-05-15 @Mets  0   Brewers    8  
+2012-05-15    @Braves  6 Reds    2 
+2012-05-15  @Marlins  6 Pirates   2 
+2012-05-15 Diamondbacks   5    @Dodgers   1 
+2012-05-15  @Giants  4  Rockies  5  
+2012-05-15      Indians     5    @Twins    0      
+2012-05-15 @White Sox  8  Tigers   10  
+2012-05-15 Mariners   0  @Red Sox  5   
+2012-05-15    Athletics     0 @Angels       4  
+2012-05-15   Yankees    2  @Orioles   5 
+2012-05-15   @Blue Jays  3  Rays  4      
+2012-05-15  @Rangers  4 Royals  7 
+2012-05-16 Dodgers  2   @Padres  4 
+2012-05-16  Pirates       4 @Nationals   7 
+2012-05-16    @Mets  3  Reds  6  
+2012-05-16   @Braves  4   Marlins  8 
+2012-05-16   @Astros  8  Brewers    3   
+2012-05-16   Diamondbacks  1 @Rockies   6 
+2012-05-16  Cardinals     4 @Giants      1  
+2012-05-16   Mariners    3 @Indians   9 
+2012-05-16   @Tigers   7   Twins  11 
+2012-05-16 @Blue Jays  8    Yankees  1 
+2012-05-16   Red Sox  1  @Rays   2   
+2012-05-16   @Rangers  4   Athletics   1  
+2012-05-16       Orioles  4   @Royals    3 O6  
+2012-05-16 @Angels   7 White Sox   2 
+2012-05-16    Phillies  9  @Cubs     2  
+2012-05-17    Reds     4   @Mets  9     
+2012-05-17 Diamondbacks    9  @Rockies   7 
+2012-05-17 Cardinals      5 @Giants  7  
+2012-05-17      @Nationals  3 Pirates   5  
+2012-05-17   @Braves  7   Marlins  0    
+2012-05-17   Brewers   0  @Astros      4 
+2012-05-17 @Cubs   7  Phillies   8     
+2012-05-17    Dodgers    8 @Padres   1     
+2012-05-17 @Indians  6    Mariners  5 O2    
+2012-05-17  @Tigers  3 Twins   4 
+2012-05-17 @Rangers     4 Athletics  5 O1   
+2012-05-17     Orioles  5         @Royals  3 
+2012-05-17  @Angels  1  White Sox   6   
+2012-05-17 @Blue Jays  4 Yankees  1 
+2012-05-17     @Rays  3 Red Sox  5 
+2012-05-18 Cardinals  5      @Dodgers   6  
+2012-05-18   White Sox  3  @Cubs  2 
+2012-05-18    Marlins  3  @Indians   2  
+2012-05-18   Pirates      0 @Tigers  6   
+2012-05-18     @Phillies   6   Red Sox   4 
+2012-05-18  Orioles      2 @Nationals  1  O2  
+2012-05-18   @Yankees  4 Reds  0   
+2012-05-18    @Blue Jays       14    Mets  5 
+2012-05-18   Braves  5  @Rays   3 
+2012-05-18 Rangers  4 @Astros  1 
+2012-05-18  @Brewers   3 Twins  11  
+2012-05-18 Diamondbacks     6 @Royals  4   
+2012-05-18 @Rockies   0 Mariners  4   
+2012-05-18   @Padres    2 Angels    7  
+2012-05-18 Athletics   6 @Giants  8  
+2012-05-19 @Dodgers       6 Cardinals  0    
+2012-05-19  Reds    6  @Yankees  5  
+2012-05-19   @Blue Jays  2   Mets  0      
+2012-05-19  @Indians  2   Marlins      0  
+2012-05-19  @Giants   4  Athletics  0 
+2012-05-19   Mariners   10 @Rockies  3 
+2012-05-19 Braves  2 @Rays    5 
+2012-05-19  Twins  5 @Brewers     4 O2 
+2012-05-19 Pirates    4 @Tigers   3  
+2012-05-19 Rangers    5  @Astros    6    
+2012-05-19   White Sox  7 @Cubs  4  
+2012-05-19    @Nationals  5  Orioles  6 
+2012-05-19  @Phillies    5 Red Sox  7 
+2012-05-19  @Royals   7    Diamondbacks    3    
+2012-05-19 @Padres  3   Angels  2      
+2012-05-20 Cardinals    5  @Dodgers   6 
+2012-05-20 @Indians   3   Marlins   5 
+2012-05-20   Pirates  3  @Tigers  4 
+2012-05-20      Reds   5  @Yankees  2     
+2012-05-20 @Blue Jays  5 Mets       6  
+2012-05-20    Red Sox   5 @Phillies  1  
+2012-05-20      Orioles        3 @Nationals  9 
+2012-05-20 Braves  2     @Rays  0 
+2012-05-20  Rangers  6  @Astros   1  
+2012-05-20    Twins  4 @Brewers     16  
+2012-05-20    Diamondbacks   2  @Royals      0 
+2012-05-20  @Cubs  0 White Sox    6 
+2012-05-20     Mariners  6 @Rockies  4  
+2012-05-20 @Padres  3   Angels     2    O4 
+2012-05-20 @Giants   2 Athletics  6 
+2012-05-21 @Pirates  5  Mets  4  
+2012-05-21   @Phillies   1  Nationals    2  
+2012-05-21 @Marlins  7  Rockies   4 
+2012-05-21  Braves      1  @Reds     4 
+2012-05-21  @Astros  8 Cubs       4    
+2012-05-21 @Brewers   3  Giants     4 O5 
+2012-05-21   @Cardinals    4  Padres  3 
+2012-05-21  @Diamondbacks  1  Dodgers      6      
+2012-05-21 Red Sox    8    @Orioles   6  
+2012-05-21  @Yankees   0  Royals  6  
+2012-05-21 @Rays   2 Blue Jays    6  
+2012-05-21  @Athletics    2  Angels   1 
+2012-05-21  Rangers     1 @Mariners   6  
+2012-05-22 Mets  3 @Pirates    2  
+2012-05-22    Nationals   5   @Phillies   2  
+2012-05-22   Rockies     6 @Marlins  7     
+2012-05-22    @Reds  4  Braves    3 
+2012-05-22     @Astros  2 Cubs  1     
+2012-05-22     @Brewers    4 Giants  6  
+2012-05-22 @Cardinals  4 Padres  0  
+2012-05-22 Dodgers      8   @Diamondbacks    7  
+2012-05-22   @Orioles  4  Red Sox  1   
+2012-05-22 Tigers  3  @Indians   5   
+2012-05-22    Royals   2  @Yankees  3   
+2012-05-22 @Rays  8   Blue Jays  5 
+2012-05-22  @White Sox  2 Twins    9 
+2012-05-22 Angels  5 @Athletics  0 
+2012-05-22    @Mariners  1   Rangers   3  
+2012-05-23 Mets   3   @Pirates    1  
+2012-05-23  @Brewers  8 Giants  5  
+2012-05-23 @Diamondbacks   11      Dodgers   4   
+2012-05-23  @Phillies  4 Nationals  1   
+2012-05-23 Rockies   8  @Marlins   4   
+2012-05-23      @Reds    2 Braves   1  
+2012-05-23 @Astros    5     Cubs   1  
+2012-05-23  @Cardinals   6 Padres  3 
+2012-05-23  Red Sox  6  @Orioles    5 
+2012-05-23  @Rays  5  Blue Jays  4    O2 
+2012-05-23 @Athletics  1  Angels  3  O2 
+2012-05-23 Rangers  3    @Mariners  5    
+2012-05-23    @Yankees   8  Royals  3  
+2012-05-23 Tigers   2   @Indians   4 
+2012-05-23 @White Sox  6 Twins  0  
+2012-05-24  Braves      3 @Reds   6 
+2012-05-24   @Mets  5 Padres   11  
+2012-05-24   @Marlins     7 Giants  14  
+2012-05-24  Phillies  10 @Cardinals    9  
+2012-05-24   Tigers   1 @Indians  2 
+2012-05-24 Twins   8    @White Sox  11 
+2012-05-24  Angels  3 @Mariners      0 
+2012-05-25    Cubs  0 @Pirates     1  
+2012-05-25  @Marlins    7 Giants   6 
+2012-05-25     @Mets  6   Padres   1 
+2012-05-25 Rockies  6  @Reds  3  
+2012-05-25   Nationals   7 @Braves     4   
+2012-05-25     @Cardinals     3   Phillies   5 O1 
+2012-05-25 @Diamondbacks     1  Brewers  7  
+2012-05-25 Astros   3     @Dodgers  1 
+2012-05-25   @Orioles    8  Royals  2    
+2012-05-25  Rays     7  @Red Sox    4   
+2012-05-25 Blue Jays    3   @Rangers   14   
+2012-05-25 Tigers    10  @Twins   6 
+2012-05-25     @White Sox  9 Indians  3  
+2012-05-25 Yankees    6 @Athletics        3 
+2012-05-25   Angels  6 @Mariners     4     
+2012-05-26   Nationals      8 @Braves  4   
+2012-05-26   Padres   0 @Mets  9  
+2012-05-26 Giants     3 @Marlins  5  
+2012-05-26  Rockies     3   @Reds    10  
+2012-05-26  @Pirates  3  Cubs   2 
+2012-05-26  @Cardinals  0 Phillies    4     
+2012-05-26    Brewers  5   @Diamondbacks   8  
+2012-05-26   @Dodgers    6 Astros     3  
+2012-05-26   Tigers       6  @Twins      3  
+2012-05-26    @Rangers  8  Blue Jays  7     O4  
+2012-05-26      @Athletics  2 Yankees    9 
+2012-05-26    Indians     7 @White Sox  14 
+2012-05-26 @Orioles    3   Royals  4  
+2012-05-26  @Mariners   3 Angels  5       
+2012-05-26 @Red Sox  3 Rays     2  
+2012-05-27 Padres       0   @Mets      2  
+2012-05-27 @Reds      7   Rockies  5 
+2012-05-27  Cubs  4 @Pirates  10  
+2012-05-27       Phillies      3 @Cardinals     8 
+2012-05-27 @Dodgers   5 Astros    1  
+2012-05-27   Brewers   3     @Diamondbacks  4 
+2012-05-27 Giants   3 @Marlins    2    
+2012-05-27 @Braves   2 Nationals    7 
+2012-05-27 @Orioles   2    Royals   4   
+2012-05-27  Rays   4   @Red Sox          3  
+2012-05-27 Tigers      4 @Twins  3   
+2012-05-27 Indians  6  @White Sox    12      
+2012-05-27   Blue Jays    6     @Rangers  12 
+2012-05-27    @Athletics  0  Yankees  2 
+2012-05-27   @Mariners   2 Angels       4 
+2012-05-28      Phillies   8   @Mets   4  
+2012-05-28    Cardinals   8   @Braves  2 
+2012-05-28 @Pirates    4  Reds  1  
+2012-05-28 Padres   7     @Cubs   11 
+2012-05-28     @Rockies   9  Astros  7   
+2012-05-28 @Giants  4 Diamondbacks  2  
+2012-05-28 @Marlins  5 Nationals     3 
+2012-05-28  Brewers  3 @Dodgers  2   
+2012-05-28 Tigers  4  @Red Sox    7 
+2012-05-28   Athletics   4   @Twins  5 
+2012-05-28  White Sox    2  @Rays      1 
+2012-05-28 @Indians    8   Royals     5    
+2012-05-28 @Blue Jays    6 Orioles   2    
+2012-05-28   @Rangers  4  Mariners   2 
+2012-05-28  @Angels  9 Yankees  8 
+2012-05-28   @Rockies      7   Astros   6 O1  
+2012-05-29   @Cubs   5  Padres  3   
+2012-05-29     @Pirates   1  Reds  8    
+2012-05-29  @Marlins  3 Nationals    1      
+2012-05-29 Phillies  3  @Mets  6   
+2012-05-29 Cardinals   4    @Braves     5 
+2012-05-29 Brewers   2  @Dodgers    1      
+2012-05-29  Diamondbacks  1  @Giants  3 
+2012-05-29 Royals       8    @Indians   2  
+2012-05-29 Orioles   6   @Blue Jays    8   
+2012-05-29 @Red Sox   6  Tigers   3 
+2012-05-29   White Sox  7  @Rays    2  
+2012-05-29  @Rangers  3    Mariners  10   
+2012-05-29 @Twins   3   Athletics  2  
+2012-05-29   Yankees     1  @Angels   5 
+2012-05-30 Padres   6   @Cubs     8  
+2012-05-30 @Pirates  2  Reds     1 
+2012-05-30  Nationals   3  @Marlins   5  
+2012-05-30 Phillies     10 @Mets  6   
+2012-05-30 @Braves  10   Cardinals   7  
+2012-05-30  Astros  5 @Rockies       13 
+2012-05-30    @Dodgers      3 Brewers      6    
+2012-05-30 @Giants     1    Diamondbacks  4 
+2012-05-30  @Indians  3 Royals  6   
+2012-05-30  @Rays   3 White Sox  4  
+2012-05-30   @Twins   4 Athletics  0 
+2012-05-30   @Blue Jays  4   Orioles   1 
+2012-05-30 @Red Sox   6  Tigers   4  
+2012-05-30   @Rangers     8 Mariners   21  
+2012-05-30    @Angels  5 Yankees    6 
+2012-05-31 @Dodgers  2  Brewers  6    
+2012-05-31    Astros  5  @Rockies  11 
+2012-05-31  Tigers  7  @Red Sox  3  
+2012-06-01 Marlins  4 @Phillies  6    
+2012-06-01  Cardinals  0   @Mets     8   
+2012-06-01 Reds  4 @Astros  1 
+2012-06-01  Pirates   8 @Brewers   2  
+2012-06-01 Dodgers    3   @Rockies     13  
+2012-06-01 @Padres    7    Diamondbacks     1  
+2012-06-01 @Giants  4 Cubs  3     
+2012-06-01 @Indians  7   Twins  1     
+2012-06-01 Yankees        9   @Tigers     4  
+2012-06-01 @Blue Jays   2 Red Sox  7 
+2012-06-01   Orioles      0  @Rays  5     
+2012-06-01   Athletics  0   @Royals  2     
+2012-06-01 @White Sox      7   Mariners   4 
+2012-06-01   Rangers   2     @Angels  4    
+2012-06-02     Marlins   5 @Phillies  4 
+2012-06-02    Braves    0 @Nationals    2 
+2012-06-02 @Rockies  2  Dodgers  6    
+2012-06-02 Reds    12      @Astros   9  
+2012-06-02  @Brewers    5     Pirates  1  
+2012-06-02 Cardinals   0   @Mets   5   
+2012-06-02  Diamondbacks  4  @Padres  2  
+2012-06-02    @Giants    2 Cubs   1 
+2012-06-02  Red Sox    7 @Blue Jays  4   
+2012-06-02    @Royals   3 Athletics  9  
+2012-06-02  @Rays  1 Orioles   2 
+2012-06-02 @White Sox  8 Mariners  10    O3   
+2012-06-02  @Tigers  4     Yankees   3  
+2012-06-02 Twins    7 @Indians  4 
+2012-06-02 @Angels        3 Rangers     2   
+2012-06-03  @Mets  6  Cardinals  1  
+2012-06-03 Marlins     5 @Phillies    1    
+2012-06-03 @Nationals  2  Braves  3   
+2012-06-03  Reds  3 @Astros    5  
+2012-06-03  Pirates  6  @Brewers   5   
+2012-06-03    @Rockies  3  Dodgers  2  
+2012-06-03     Cubs   0     @Giants     2   
+2012-06-03   @Padres    0   Diamondbacks  6 
+2012-06-03 Yankees    5  @Tigers  1 
+2012-06-03 Red Sox  1 @Blue Jays   5   
+2012-06-03   @Rays  8 Orioles    4  
+2012-06-03 Athletics      0 @Royals  2     
+2012-06-03   @White Sox    4  Mariners  2  
+2012-06-03  @Indians  3 Twins    6  
+2012-06-03  @Angels    3 Rangers       7  
+2012-06-04  Cardinals    5   @Mets   4   
+2012-06-04     @Giants   3  Cubs     2  
+2012-06-04  Dodgers  4 @Phillies  3    
+2012-06-04 Rockies        4    @Diamondbacks     0    
+2012-06-04 @Royals  7 Twins  10  
+2012-06-04 @Angels    6 Mariners  8    
+2012-06-04   Rangers    1     @Athletics   12 
+2012-06-05  @Nationals  7 Mets  6  O3 
+2012-06-05  Dodgers   2    @Phillies    1 
+2012-06-05 @Reds       4   Pirates  8   
+2012-06-05    Braves     11 @Marlins   0 
+2012-06-05  Cardinals      8   @Astros   9  
+2012-06-05   Cubs   10 @Brewers    0  
+2012-06-05  @Diamondbacks   10    Rockies     0   
+2012-06-05 Giants  5   @Padres  6      
+2012-06-05  @Tigers  2  Indians  4 
+2012-06-05  @Yankees   7  Rays    0   
+2012-06-05 @Red Sox   6 Orioles  8  O1 
+2012-06-05   Twins  0  @Royals  1 
+2012-06-05    Blue Jays       9 @White Sox  5     
+2012-06-05  Mariners  1 @Angels   6   
+2012-06-05  Rangers  6  @Athletics  3  
+2012-06-06    @Padres  5   Giants  6  
+2012-06-06      @Phillies  5  Dodgers     6 
+2012-06-06  Mets   3   @Nationals   5   
+2012-06-06  @Reds     5 Pirates   4   
+2012-06-06   Braves    2    @Marlins   1 
+2012-06-06  Cardinals   4 @Astros  3  
+2012-06-06 @Brewers  8  Cubs   0 
+2012-06-06 @Diamondbacks   6  Rockies  1  
+2012-06-06   @Royals  2 Twins  4 
+2012-06-06 @Yankees    4  Rays        1      
+2012-06-06    Indians   9 @Tigers   6  
+2012-06-06    @Red Sox  1 Orioles  2    
+2012-06-06   @White Sox  0   Blue Jays   4 
+2012-06-06 Mariners    8 @Angels    6 
+2012-06-06  @Athletics      2 Rangers  0 
+2012-06-07  Dodgers     8 @Phillies   3 
+2012-06-07  @Nationals   1    Mets  3 
+2012-06-07 Cubs  3 @Brewers    4       O1   
+2012-06-07  @Reds    4 Pirates  5  O1   
+2012-06-07  @Marlins   2   Braves    8 
+2012-06-07    @Astros  2 Cardinals  14 
+2012-06-07   @Tigers    7 Indians    5 
+2012-06-07 Rangers   1    @Athletics  7  
+2012-06-07   Rays  7 @Yankees     3 
+2012-06-07     Orioles  0  @Red Sox   7 
+2012-06-07 Blue Jays      3  @White Sox    4 
+2012-06-07 @Padres   3  Giants  8 
+2012-06-08 Padres  5 @Brewers   9   
+2012-06-08 @Orioles  6 Phillies    9 
+2012-06-08    Royals  2  @Pirates  4 
+2012-06-08   @Yankees  9     Mets      1 
+2012-06-08   Nationals    7 @Red Sox  4   
+2012-06-08    Rays  5  @Marlins  1 
+2012-06-08    @Reds  6  Tigers   5  O1   
+2012-06-08    Blue Jays   3  @Braves  4   O1 
+2012-06-08    Cubs   7   @Twins  8  O1  
+2012-06-08 @White Sox  3 Astros   8 
+2012-06-08   @Cardinals  2  Indians  6 
+2012-06-08  @Rockies    2  Angels   7 
+2012-06-08  Athletics    8 @Diamondbacks  9  
+2012-06-08   Dodgers   0 @Mariners     1  
+2012-06-08 @Giants    0 Rangers  5  
+2012-06-09 Padres  5  @Brewers     2   
+2012-06-09  Cubs  3 @Twins   11    
+2012-06-09 Blue Jays  2    @Braves     5 
+2012-06-09  Nationals  4   @Red Sox  2  
+2012-06-09 @Giants  5  Rangers  2 
+2012-06-09   @White Sox  10 Astros    1   
+2012-06-09   @Rockies   5 Angels     11     
+2012-06-09 @Reds   2 Tigers  3  
+2012-06-09 @Orioles  6  Phillies  4 O3   
+2012-06-09 Rays   13    @Marlins   4 
+2012-06-09  Dodgers   8 @Mariners  3      
+2012-06-09 Royals  3 @Pirates    5  
+2012-06-09 @Yankees  4   Mets   2 
+2012-06-09 @Diamondbacks  8 Athletics   3      
+2012-06-09   @Cardinals  2  Indians     0 
+2012-06-10  @Brewers     6 Padres     5   
+2012-06-10   Mets    4  @Yankees  5 
+2012-06-10  Tigers   7  @Reds    6  
+2012-06-10  @Orioles     5 Phillies    4 O1    
+2012-06-10 @Pirates  3    Royals     2   
+2012-06-10    @Braves  4   Blue Jays  12 
+2012-06-10  @Red Sox  3 Nationals      4 
+2012-06-10    @Twins       2 Cubs  8 
+2012-06-10    @White Sox   9  Astros     11    
+2012-06-10 @Cardinals     1   Indians    4     
+2012-06-10 @Rockies  8 Angels    10 
+2012-06-10      @Giants    0 Rangers   5  
+2012-06-10   Dodgers      8   @Mariners     2     
+2012-06-10 @Marlins  2 Rays  4  
+2012-06-10   Athletics  3 @Diamondbacks   4   
+2012-06-11 Nationals    6     @Blue Jays  3   
+2012-06-11 Yankees    3   @Braves   0   
+2012-06-11  @Marlins  4  Red Sox   1      
+2012-06-11   Angels   3 @Dodgers    2 
+2012-06-12 @Giants   6 Astros   3     
+2012-06-12   Pirates  6 @Orioles  8 
+2012-06-12 Nationals  4 @Blue Jays  2 
+2012-06-12 @Marlins     1   Red Sox  2   
+2012-06-12 @Reds   7   Indians  1   
+2012-06-12 @Rays   2    Mets   11 
+2012-06-12 Yankees  6   @Braves    4 
+2012-06-12   Diamondbacks   1  @Rangers     9  
+2012-06-12 Tigers     3   @Cubs  4   
+2012-06-12     Phillies   7  @Twins    11 
+2012-06-12 Brewers     1    @Royals   2  
+2012-06-12  @Cardinals     1     White Sox   6 
+2012-06-12 @Rockies  5  Athletics  8 
+2012-06-12  @Mariners    4 Padres  5  
+2012-06-12 Angels  2 @Dodgers     5   
+2012-06-13  @Giants  10    Astros        0 
+2012-06-13  Nationals    6  @Blue Jays  2 
+2012-06-13 @Orioles  7    Pirates    1 
+2012-06-13 @Marlins   2    Red Sox  10 
+2012-06-13  @Reds  5  Indians     3   
+2012-06-13 Mets   9  @Rays   1   
+2012-06-13 @Braves   2  Yankees  3  
+2012-06-13  Diamondbacks     0 @Rangers  1 
+2012-06-13      @Cubs   4 Tigers   8 
+2012-06-13   @Twins  8    Phillies   9  
+2012-06-13 Brewers  3  @Royals   4   O2 
+2012-06-13 White Sox  0   @Cardinals  1    
+2012-06-13 Athletics    10  @Rockies   8    
+2012-06-13   Padres  1   @Mariners  0 
+2012-06-13  @Dodgers     1    Angels    2  
+2012-06-14  Astros  6    @Giants  3   
+2012-06-14   @Reds   12   Indians    5 
+2012-06-14  @Rays  6 Mets   9 
+2012-06-14   @Cubs    3 Tigers   5 
+2012-06-14 Athletics   8  @Rockies  2 
+2012-06-14   Pirates     6   @Orioles  12       
+2012-06-14 Diamondbacks   11   @Rangers  3 
+2012-06-14  Phillies  6   @Twins   1 
+2012-06-14  @Royals        4     Brewers     3   
+2012-06-14  @Cardinals  5 White Sox   3   
+2012-06-14 Padres  6  @Mariners  2   
+2012-06-15  Reds       7  @Mets    3   
+2012-06-15      @Cubs  3 Red Sox    0    
+2012-06-15   Pirates     0  @Indians     2   
+2012-06-15  @Tigers  4  Rockies   12   O1  
+2012-06-15   Yankees  7   @Nationals   2  
+2012-06-15 @Blue Jays      3 Phillies   0   
+2012-06-15  Marlins   0   @Rays       11 
+2012-06-15 Orioles     2     @Braves   4  
+2012-06-15       @Rangers    6 Astros   2    
+2012-06-15 @Twins  3   Brewers  5 
+2012-06-15 Royals  3  @Cardinals    2 
+2012-06-15 Padres  2  @Athletics    10  
+2012-06-15 @Angels   0  Diamondbacks     5 
+2012-06-15  @Mariners   2 Giants     4 
+2012-06-15   White Sox  6 @Dodgers         7   
+2012-06-16   @Mets  1  Reds   4   
+2012-06-16   @Nationals   3  Yankees    5    O5    
+2012-06-16 Phillies  5 @Blue Jays   6 O1 
+2012-06-16   @Twins  2    Brewers   6 
+2012-06-16   @Cardinals  10  Royals  7 
+2012-06-16  Pirates  9 @Indians   2 
+2012-06-16     Padres    4   @Athletics   6 
+2012-06-16   Giants   4    @Mariners  7 
+2012-06-16     Rockies   1 @Tigers     4    
+2012-06-16  @Cubs  3 Red Sox   4  
+2012-06-16  @Braves  0   Orioles  5 
+2012-06-16 @Rays   3       Marlins   4  O6   
+2012-06-16  @Rangers   8 Astros    3   
+2012-06-16  Diamondbacks   0 @Angels   2 
+2012-06-16 White Sox  5   @Dodgers  4  
+2012-06-17   Reds    3  @Mets  1  
+2012-06-17 @Cubs   4  Red Sox  7      
+2012-06-17 Pirates   9  @Indians  5  
+2012-06-17   @Tigers     5  Rockies     0  
+2012-06-17  @Blue Jays     6   Phillies  2   
+2012-06-17 @Nationals   1 Yankees   4 
+2012-06-17  Orioles  2 @Braves    0  
+2012-06-17  @Rays  3 Marlins      0     
+2012-06-17   @Twins  5 Brewers  4 O6  
+2012-06-17 Royals   5 @Cardinals   3 O6   
+2012-06-17    Astros    3 @Rangers    9 
+2012-06-17   Diamondbacks  0 @Angels  2   
+2012-06-17 @Athletics     1  Padres   2 
+2012-06-17  @Mariners  2 Giants   1  
+2012-06-17     @Dodgers  2 White Sox  1     O1  
+2012-06-18   Reds   9 @Indians  10 
+2012-06-18    Braves  2   @Yankees    6  
+2012-06-18 @Mets  5  Orioles  0  
+2012-06-18  Royals     7 @Astros  9 
+2012-06-18  @White Sox   3   Cubs  12 
+2012-06-18 Blue Jays  6   @Brewers    7     
+2012-06-18 Mariners   1 @Diamondbacks    7   
+2012-06-18   Giants   5     @Angels  3 
+2012-06-18  @Padres    1 Rangers  2     
+2012-06-19 @Phillies  7   Rockies     2      
+2012-06-19 @Pirates   7   Twins   2 
+2012-06-19  Rays      5 @Nationals   4  
+2012-06-19   Reds     2 @Indians  3 O1  
+2012-06-19    @Tigers  6 Cardinals   3 
+2012-06-19 @Yankees  3  Braves    4 
+2012-06-19   @Red Sox  7    Marlins  5    
+2012-06-19  Orioles    0   @Mets    5      
+2012-06-19  @Astros        0  Royals      2 
+2012-06-19  @White Sox     1 Cubs  2  
+2012-06-19  @Diamondbacks      9 Mariners  12  O1      
+2012-06-19 Giants  5 @Angels   12  
+2012-06-19  Rangers  7  @Padres    3 
+2012-06-19 Dodgers   0  @Athletics  3   
+2012-06-19  @Brewers  9 Blue Jays     10 
+2012-06-20 Rockies   6 @Phillies      7 
+2012-06-20 @Yankees  5  Braves  10 
+2012-06-20 @Astros   1 Royals  2 
+2012-06-20   @Brewers  8  Blue Jays       3 
+2012-06-20  @Padres  2 Rangers     4  
+2012-06-20 @Nationals  3 Rays    2     
+2012-06-20 @Pirates     1    Twins  2  
+2012-06-20 Cardinals   3 @Tigers   1 
+2012-06-20  @Indians     8  Reds  1 
+2012-06-20  @Mets  4  Orioles  3 
+2012-06-20 Marlins     5  @Red Sox  15 
+2012-06-20 Cubs  0  @White Sox  7    
+2012-06-20 Mariners  10  @Diamondbacks  14    
+2012-06-20 Giants  0  @Angels      6   
+2012-06-20   Dodgers   1 @Athletics  4    
+2012-06-21  @Phillies     1   Rockies   4 
+2012-06-21   @Tigers  2    Cardinals     1    O1  
+2012-06-21 Dodgers  1     @Athletics  4       
+2012-06-21    @Nationals  5 Rays  2   
+2012-06-21 @Pirates  9      Twins     1 
+2012-06-21 Marlins  5   @Red Sox   6  
+2012-06-22 @Diamondbacks  6 Cubs   1 
+2012-06-22  @Orioles    2      Nationals   1  
+2012-06-22   Tigers  1 @Pirates     4  
+2012-06-22 Blue Jays    12 @Marlins  5  
+2012-06-22     @Mets   6    Yankees   4 
+2012-06-22   @Reds    4  Twins    5   
+2012-06-22 Braves      4  @Red Sox  1 
+2012-06-22  @Rangers  4 Rockies   1      
+2012-06-22 Indians     2     @Astros   0 
+2012-06-22  @Royals    4 Cardinals     11     
+2012-06-22 Brewers  1    @White Sox  0  O1  
+2012-06-22    Giants   5    @Athletics     4 
+2012-06-22 @Angels   8     Dodgers  5  
+2012-06-22     Mariners   5 @Padres  9   
+2012-06-23 @Diamondbacks  10  Cubs   5 
+2012-06-23  @Mets    3   Yankees    4  
+2012-06-23   @Royals    2      Cardinals     8  
+2012-06-23 Rockies        11 @Rangers      7   
+2012-06-23  @Pirates   4   Tigers     1    
+2012-06-23   Rays   6 @Phillies       7  
+2012-06-23  @Reds  6 Twins  0     
+2012-06-23     @Astros   8 Indians  1 
+2012-06-23 Nationals  3       @Orioles     1 
+2012-06-23 Blue Jays      7   @Marlins     1  
+2012-06-23     Giants   9 @Athletics   8 
+2012-06-23 @White Sox  8 Brewers    6 
+2012-06-23    @Angels    1   Dodgers    3  
+2012-06-23  Braves    4  @Red Sox     8  
+2012-06-23      @Padres     1 Mariners    5 
+2012-06-24 Cubs    1   @Diamondbacks   5  
+2012-06-24   @Mets   5   Yankees     6 
+2012-06-24    Twins   4  @Reds   3 
+2012-06-24 @Marlins  9  Blue Jays   0 
+2012-06-24   Tigers    3  @Pirates  2     
+2012-06-24 Rays   3 @Phillies  2  
+2012-06-24    Nationals   1 @Orioles  2       
+2012-06-24  @Red Sox      9   Braves     4 
+2012-06-24  Indians     1    @Astros     7 
+2012-06-24  @Royals   8    Cardinals  11   
+2012-06-24  @White Sox   1  Brewers  0  O1   
+2012-06-24 @Angels   5 Dodgers   3    
+2012-06-24 @Athletics  4   Giants  2   
+2012-06-24 @Padres  2  Mariners   0 
+2012-06-24  Rockies  2    @Rangers  4 
+2012-06-24 Rays     7   @Phillies   3  
+2012-06-25   @Phillies      8    Pirates  3 
+2012-06-25  Brewers    1  @Reds    3 
+2012-06-25   @Marlins  7 Cardinals  8  O1 
+2012-06-25 @Astros       7  Padres       8  O1 
+2012-06-25  @Cubs   6 Mets    1 
+2012-06-25  @Rockies     4  Nationals  2 
+2012-06-25   @Giants  8  Dodgers  0   
+2012-06-25  @Yankees      7   Indians   1 
+2012-06-25      @Red Sox      6      Blue Jays  9 
+2012-06-25 Tigers   8  @Rangers  2 
+2012-06-25  @Twins     4   White Sox  1  
+2012-06-25 Rays  0 @Royals  8 
+2012-06-25 Athletics  1 @Mariners          0 
+2012-06-26  Pirates   4 @Phillies        5  
+2012-06-26     Brewers    3  @Reds  4   
+2012-06-26 @Braves  8  Diamondbacks    1  
+2012-06-26 Cardinals   5   @Marlins   2  
+2012-06-26 Padres  3   @Astros     5 
+2012-06-26 @Cubs      5  Mets   3  
+2012-06-26 Nationals   12 @Rockies    5 
+2012-06-26     Dodgers   0   @Giants     2     
+2012-06-26   Angels   7  @Orioles  3  
+2012-06-26 Indians     4 @Yankees  6    
+2012-06-26    @Red Sox    5 Blue Jays  1   
+2012-06-26   @Rangers    7 Tigers     5   
+2012-06-26   Rays    2    @Royals  8  
+2012-06-26 @Twins   2     White Sox  3 
+2012-06-26  Athletics  2   @Mariners   3    
+2012-06-27   Brewers  8  @Reds   4 
+2012-06-27    @Cubs  1    Mets  17    
+2012-06-27   Dodgers   0 @Giants   3  
+2012-06-27    @Phillies  7  Pirates   11      
+2012-06-27 @Braves  6 Diamondbacks  4  
+2012-06-27 @Marlins    5      Cardinals  3 
+2012-06-27 Padres    0  @Astros  1   
+2012-06-27      Nationals     11  @Rockies   5   
+2012-06-27    Indians  4    @Yankees   5 
+2012-06-27 White Sox   12    @Twins      5   
+2012-06-27 Blue Jays  4 @Red Sox   10  
+2012-06-27 @Royals  5  Rays  4  
+2012-06-27 @Mariners     1 Athletics  2   
+2012-06-27  Angels  13       @Orioles      1  
+2012-06-27 @Rangers  13 Tigers        9 
+2012-06-28  @Phillies    4   Pirates  5    
+2012-06-28   @Rockies   11  Nationals   10 O2 
+2012-06-28   Diamondbacks     3 @Braves   2  
+2012-06-28  @Astros  3 Padres  7 
+2012-06-28  Mets  3  @Dodgers     2 
+2012-06-28   Reds  0 @Giants     5 
+2012-06-28   Indians  7   @Orioles    2   
+2012-06-28  @Yankees     3   White Sox    4   
+2012-06-28 @Blue Jays   7 Angels  9 
+2012-06-28    Tigers   5  @Rays   2  
+2012-06-28     Athletics     6 @Rangers  7  
+2012-06-28  @Mariners   1 Red Sox  0  
+2012-06-29 @Cubs     4   Astros   0  
+2012-06-29  Phillies     2 @Marlins  6    
+2012-06-29      @Braves  4   Nationals  5  
+2012-06-29 @Rockies    10  Padres      2  
+2012-06-29    @Brewers   3 Diamondbacks  9   
+2012-06-29     Pirates  14  @Cardinals   5  
+2012-06-29   @Dodgers   0      Mets   9     
+2012-06-29 Reds   5 @Giants    1  
+2012-06-29 Indians  8 @Orioles  9    
+2012-06-29    White Sox  14    @Yankees    7 
+2012-06-29   @Blue Jays  7    Angels     5 
+2012-06-29   Tigers  2     @Rays  4 
+2012-06-29  Athletics   3    @Rangers  4 
+2012-06-29 @Twins      3 Royals   4 
+2012-06-29  Red Sox   5 @Mariners  0    
+2012-06-30   Pirates  7    @Cardinals     3    
+2012-06-30 Nationals  5  @Braves         7  
+2012-06-30   @Giants   1  Reds     2     
+2012-06-30    Astros    2 @Cubs    3    
+2012-06-30  @Brewers  10  Diamondbacks    2  
+2012-06-30 @Marlins    3 Phillies     2   
+2012-06-30   @Dodgers    0   Mets   5 
+2012-06-30   @Rockies  4 Padres  8 
+2012-06-30  @Yankees  4   White Sox          0 
+2012-06-30   Angels   2   @Blue Jays   11    
+2012-06-30 Indians    11 @Orioles     5 
+2012-06-30     @Twins      7  Royals    2  
+2012-06-30  @Rangers   7 Athletics   2 
+2012-06-30  @Rays   2      Tigers       6 
+2012-06-30  Red Sox  2 @Mariners   3     O2   
+2012-06-30   Royals  1 @Twins   5  
+2012-07-01    @Marlins   5 Phillies   2   
+2012-07-01   @Braves  4  Nationals    8  
+2012-07-01  @Brewers   2 Diamondbacks    1 
+2012-07-01 Pirates  4 @Cardinals      5  
+2012-07-01 Astros  0    @Cubs   3  
+2012-07-01    @Dodgers   8   Mets   3  
+2012-07-01 @Rockies  0  Padres  2  
+2012-07-01     Reds    3  @Giants    4  
+2012-07-01  @Blue Jays  6 Angels    10      
+2012-07-01  Indians  6    @Orioles     2 
+2012-07-01 @Rays       3 Tigers  5 
+2012-07-01   White Sox  2 @Yankees  4   
+2012-07-01  @Twins    10  Royals        8       
+2012-07-01   @Mariners     1 Red Sox       2  O1   
+2012-07-01     @Rangers  1 Athletics       3   
+2012-07-02 Astros   2  @Pirates    11    
+2012-07-02  @Braves    1 Cubs  4 
+2012-07-02   Marlins   5 @Brewers  6  
+2012-07-02 @Cardinals  9 Rockies    3 
+2012-07-02 @Diamondbacks   2 Padres     6 
+2012-07-02  @Dodgers     2 Reds    8 
+2012-07-02  @Indians  0 Angels  3   
+2012-07-02    @Tigers  4 Twins   6 
+2012-07-02 @Blue Jays   3 Royals      11   
+2012-07-02   @Rays    4 Yankees     3  
+2012-07-02   @Athletics    6 Red Sox   1  
+2012-07-02 Orioles   3   @Mariners  6 
+2012-07-03     Marlins  12 @Brewers   13   O1      
+2012-07-03  Giants  3  @Nationals  9  
+2012-07-03 Astros         7  @Pirates   8 
+2012-07-03     Phillies  1 @Mets  11 
+2012-07-03 Cubs      3 @Braves  10  
+2012-07-03     Rockies  3 @Cardinals    2 
+2012-07-03    @Diamondbacks  5   Padres  9 
+2012-07-03   @Dodgers    3   Reds  1    
+2012-07-03 @Indians     9  Angels     5 
+2012-07-03 @Blue Jays    6   Royals       3  
+2012-07-03  @Rays   7 Yankees  4    
+2012-07-03 Rangers     2 @White Sox  19  
+2012-07-03 @Athletics  3 Red Sox  2    
+2012-07-03     @Mariners  4    Orioles     5  
+2012-07-03    @Tigers        6  Twins  8  
+2012-07-04      Giants   4      @Nationals  9 
+2012-07-04  Phillies    9 @Mets  2 
+2012-07-04     Astros  4  @Pirates  6   
+2012-07-04   Marlins   7  @Brewers    6 O1  
+2012-07-04  @Braves   1  Cubs  5      
+2012-07-04  @Cardinals   4 Rockies       1    
+2012-07-04 @Dodgers     4   Reds     1   
+2012-07-04   @Diamondbacks  6  Padres   8  
+2012-07-04    Yankees   4      @Rays   3      
+2012-07-04 Red Sox  2 @Athletics  3     
+2012-07-04  Angels  3  @Indians     12   
+2012-07-04  @Mariners  2  Orioles   4 
+2012-07-04  Twins    1    @Tigers  5 
+2012-07-04  Royals    1  @Blue Jays     4  
+2012-07-04  Rangers   4  @White Sox  5 O1 
+2012-07-05   @Brewers  0    Marlins   4    
+2012-07-05  @Pirates     2 Astros   0  
+2012-07-05 @Nationals     6    Giants   5 
+2012-07-05  @Mets  6  Phillies   5 
+2012-07-05 Cubs  3   @Braves     7   
+2012-07-05 @Cardinals   6    Rockies   2  
+2012-07-05  Dodgers   4 @Diamondbacks  1    
+2012-07-05   Reds      1     @Padres   2  
+2012-07-05   Twins    3    @Tigers    7    
+2012-07-05  @White Sox  2   Rangers   1 
+2012-07-05   @Indians   3  Rays   1  
+2012-07-05  @Blue Jays  6    Royals     9  
+2012-07-05 Orioles    7   @Angels  9 
+2012-07-06 Giants       6  @Pirates  5 
+2012-07-06   Braves  5  @Phillies  0   
+2012-07-06  @Nationals   1 Rockies  5 
+2012-07-06 Cubs    8  @Mets    7  
+2012-07-06      @Astros  1 Brewers   7 
+2012-07-06 @Cardinals  2 Marlins  3  
+2012-07-06 @Diamondbacks   5  Dodgers    3 
+2012-07-06    @Padres   0   Reds  6    
+2012-07-06 Rays    10  @Indians  3   
+2012-07-06 Royals  2   @Tigers  4 
+2012-07-06  Yankees  10 @Red Sox  8  
+2012-07-06  Twins    5 @Rangers    1  
+2012-07-06  @White Sox  4  Blue Jays    2 
+2012-07-06 @Athletics  4  Mariners      1    O2   
+2012-07-06     @Angels   2     Orioles   3   
+2012-07-07   Giants     1 @Pirates    3   
+2012-07-07 Rockies  1 @Nationals  4   
+2012-07-07   @Cardinals   3    Marlins   2  
+2012-07-07  @Astros   6 Brewers    3    
+2012-07-07 @Mets  3  Cubs    1      
+2012-07-07   @Phillies  3   Braves      6 
+2012-07-07 Dodgers      3 @Diamondbacks   5 
+2012-07-07    @Padres  5 Reds  6   
+2012-07-07  Blue Jays   0  @White Sox      2 
+2012-07-07      @Indians   7   Rays   3 
+2012-07-07 @Tigers      8 Royals      7   
+2012-07-07   Yankees  6  @Red Sox  1 
+2012-07-07   @Rangers    4   Twins   3 O1 
+2012-07-07  Orioles  0 @Angels     3   
+2012-07-07  Mariners   7 @Athletics   1 
+2012-07-07  Yankees     5  @Red Sox  9   
+2012-07-08 Cubs   7    @Mets    0     
+2012-07-08   Giants   2  @Pirates  13  
+2012-07-08 Braves  4    @Phillies     3 
+2012-07-08  Rockies  4    @Nationals  3  
+2012-07-08    @Astros   3  Brewers      5     O1   
+2012-07-08 Marlins    4    @Cardinals   5 
+2012-07-08     @Padres  2  Reds  4    
+2012-07-08   Dodgers    1 @Diamondbacks  7      
+2012-07-08  Rays  7  @Indians  6 
+2012-07-08  @Tigers  7  Royals  1 
+2012-07-08 @White Sox   9   Blue Jays   11  
+2012-07-08  Orioles  0     @Angels    6  
+2012-07-08 Mariners  1   @Athletics    2  O4 
+2012-07-08 @Rangers  4 Twins   3   O4  
+2012-07-08     @Red Sox    3   Yankees   7  
+2012-07-13  @Cubs     8  Diamondbacks  1 
+2012-07-13    Nationals    5  @Marlins      1 
+2012-07-13    @Reds  5   Cardinals  3  
+2012-07-13    @Braves   7  Mets  5    
+2012-07-13   Pirates   7 @Brewers    10    
+2012-07-13 Phillies   2     @Rockies   6    
+2012-07-13   Padres      1  @Dodgers   2  
+2012-07-13    @Giants  5     Astros  1    
+2012-07-13  Tigers  7   @Orioles     2  
+2012-07-13 Angels  5    @Yankees      6  
+2012-07-13 @Blue Jays  0  Indians  1 
+2012-07-13 Red Sox     3  @Rays       1  
+2012-07-13 Athletics   6   @Twins     3  
+2012-07-13 @Royals   8  White Sox  9 O5 
+2012-07-13   @Mariners     2  Rangers   3   
+2012-07-14  Mets    7 @Braves      8  
+2012-07-14 Diamondbacks     1  @Cubs   4  
+2012-07-14  Phillies   8   @Rockies  5 
+2012-07-14 Pirates  6      @Brewers    4  
+2012-07-14  @Reds   3   Cardinals  2  O1  
+2012-07-14 @Marlins   2 Nationals   1   
+2012-07-14       Astros   2    @Giants  3    O3  
+2012-07-14  Padres  7 @Dodgers   6 
+2012-07-14   Angels   3      @Yankees  5    
+2012-07-14       @Blue Jays     11   Indians      9   
+2012-07-14  @Orioles   8      Tigers      6  O4  
+2012-07-14 @Twins   3  Athletics     9    
+2012-07-14    @Royals     6  White Sox  3  
+2012-07-14 Red Sox   3 @Rays     5    
+2012-07-14   @Mariners  7        Rangers    0 
+2012-07-15 Mets  1 @Braves  6    
+2012-07-15   @Marlins  0   Nationals   4 
+2012-07-15 Pirates      1 @Brewers  4  
+2012-07-15 Diamondbacks  1 @Cubs  3 
+2012-07-15  @Rockies   1 Phillies  5  
+2012-07-15 Astros    2 @Giants    3  
+2012-07-15 @Dodgers     2  Padres    7  
+2012-07-15 @Reds   4 Cardinals    2 
+2012-07-15    Angels  10     @Yankees   8    
+2012-07-15    Indians    0    @Blue Jays   3   
+2012-07-15 Tigers   4 @Orioles    0   
+2012-07-15 @Rays  3 Red Sox  7 
+2012-07-15  Athletics  9   @Twins     4     
+2012-07-15    White Sox  2   @Royals  1 
+2012-07-15  @Mariners  0 Rangers    4      
+2012-07-16 @Marlins  5    Nationals  3  
+2012-07-16 @Reds  3   Diamondbacks     5    
+2012-07-16  Cardinals     3 @Brewers      2 
+2012-07-16   Pirates   4 @Rockies    5 
+2012-07-16  @Padres  0 Astros    2  
+2012-07-16   @Dodgers   2 Phillies  3  
+2012-07-16    Angels  6 @Tigers  8   
+2012-07-16  @Yankees   6  Blue Jays   3    
+2012-07-16     White Sox     1   @Red Sox   5   
+2012-07-16 Indians   3  @Rays  2  
+2012-07-16 Mariners      9  @Royals    4     
+2012-07-16  @Twins  19  Orioles    7  
+2012-07-17 Mets     4   @Nationals   5   O1 
+2012-07-17      @Reds  4  Diamondbacks   0   
+2012-07-17 @Braves  0      Giants   9 
+2012-07-17 Marlins  9  @Cubs  5 
+2012-07-17  Cardinals  2   @Brewers    3  
+2012-07-17  Pirates   6 @Rockies   2   
+2012-07-17   Astros  2   @Padres     8     
+2012-07-17  @Dodgers       2  Phillies  3 
+2012-07-17  @Tigers    0    Angels    13 
+2012-07-17 Blue Jays   1  @Yankees        6 
+2012-07-17   White Sox    7   @Red Sox       5   
+2012-07-17 Indians    2    @Rays  4 
+2012-07-17    Orioles  4  @Twins  6  
+2012-07-17 Rangers   6   @Athletics   1  
+2012-07-17 Mariners  9 @Royals   6   
+2012-07-18 Cardinals   3 @Brewers  4 
+2012-07-18 Pirates    9  @Rockies   6   
+2012-07-18 @Dodgers  5  Phillies   3  O3   
+2012-07-18 @Padres  8  Astros  4 
+2012-07-18     @Nationals     4  Mets    3    
+2012-07-18 Diamondbacks  7 @Reds  1  
+2012-07-18   @Braves   4    Giants  9 O2   
+2012-07-18 Marlins  1  @Cubs       5 
+2012-07-18 @Yankees    6    Blue Jays     0  
+2012-07-18  Rangers  3 @Athletics   4 
+2012-07-18 Angels    2 @Tigers   7   
+2012-07-18   White Sox  1 @Red Sox   10  
+2012-07-18 Indians   10  @Rays    6 
+2012-07-18 @Twins    1    Orioles   2    
+2012-07-18 @Royals     8   Mariners   7  
+2012-07-19  @Braves  3      Giants  2  
+2012-07-19   @Reds   7    Diamondbacks  6 
+2012-07-19 Mets  9  @Nationals  5 
+2012-07-19   Marlins    2 @Cubs  4 
+2012-07-19   Astros   0   @Padres  1 
+2012-07-19 @Rays  6  Indians  0 
+2012-07-19  @Tigers   5    Angels  1  
+2012-07-19 Orioles  4 @Twins   3    
+2012-07-19   Mariners     6 @Royals   1  
+2012-07-19 @Red Sox   3   White Sox     1 
+2012-07-19 Yankees   3  @Athletics   4 
+2012-07-20 @Nationals   10   Braves      11  O2       
+2012-07-20  Marlins    3    @Pirates  4    
+2012-07-20   @Phillies   2 Giants  7    
+2012-07-20  @Mets  6  Dodgers  7    
+2012-07-20    Brewers  1 @Reds   3  
+2012-07-20   Cubs   1   @Cardinals  4  
+2012-07-20 Astros    8     @Diamondbacks  13 
+2012-07-20 @Padres  9  Rockies   5  
+2012-07-20   Orioles  10     @Indians  2 
+2012-07-20 White Sox  2   @Tigers  4 
+2012-07-20 Blue Jays  6  @Red Sox   1  
+2012-07-20 Mariners    3   @Rays  4   O5 
+2012-07-20   Twins   2 @Royals   1  O2    
+2012-07-20 @Athletics   3   Yankees  2  
+2012-07-20 @Angels    6   Rangers   1   
+2012-07-21 Dodgers  8   @Mets    5 
+2012-07-21  Cubs  0 @Cardinals   12   
+2012-07-21 @Phillies  5 Giants    6   O1  
+2012-07-21   @Nationals     0  Braves      4      
+2012-07-21  Marlins   1 @Pirates   5    
+2012-07-21     @Reds  6   Brewers  2  
+2012-07-21    @Diamondbacks      12   Astros    3 
+2012-07-21 Rockies  8 @Padres      6 O3 
+2012-07-21 Rangers   9     @Angels    2   
+2012-07-21  @Indians  1  Orioles   3  
+2012-07-21   White Sox    1   @Tigers  7 
+2012-07-21   Blue Jays  7  @Red Sox    3 
+2012-07-21     Twins    3   @Royals  7  
+2012-07-21  Mariners        2    @Rays  1     
+2012-07-21    Yankees     1  @Athletics   2  
+2012-07-21  @Nationals   5 Braves  2  
+2012-07-22  @Mets   3    Dodgers  8 O3  
+2012-07-22  Brewers     1 @Reds  2 
+2012-07-22   @Pirates   3 Marlins  0   
+2012-07-22 Giants  3 @Phillies    4  O3 
+2012-07-22    @Nationals  9  Braves  2 
+2012-07-22   Cubs     0      @Cardinals    7  
+2012-07-22  @Padres  3 Rockies  2 
+2012-07-22 Astros  2  @Diamondbacks  8 
+2012-07-22  @Tigers  6 White Sox  4 
+2012-07-22 Blue Jays    15 @Red Sox   7      
+2012-07-22 @Rays   1 Mariners  2        
+2012-07-22     Twins  7 @Royals  5 
+2012-07-22  @Angels  7  Rangers     4   
+2012-07-22  @Athletics   5   Yankees   4      O3   
+2012-07-22   Orioles   4     @Indians  3  
+2012-07-23 @Phillies  7   Brewers   6      
+2012-07-23  @Pirates  0 Cubs   2 
+2012-07-23  @Mets   2 Nationals    8 O1       
+2012-07-23  Braves    1  @Marlins    2 
+2012-07-23  @Astros   3    Reds  8 
+2012-07-23   Dodgers     5 @Cardinals  3    
+2012-07-23       @Diamondbacks      6  Rockies  3 
+2012-07-23   @Giants   7 Padres  1 
+2012-07-23      Orioles  1  @Indians  3    
+2012-07-23 Red Sox      1 @Rangers    9 
+2012-07-23 @White Sox  7 Twins  4  
+2012-07-23      Royals  3  @Angels    6  
+2012-07-23    @Mariners     1 Yankees   4  
+2012-07-24 Cubs      5 @Pirates    1  
+2012-07-24   Brewers  6 @Phillies      7  
+2012-07-24    Braves  4 @Marlins  3  
+2012-07-24 @Mets     2   Nationals   5 
+2012-07-24 Reds    4    @Astros  2 
+2012-07-24  @Cardinals    8  Dodgers   2     
+2012-07-24  @Diamondbacks  6 Rockies    2  
+2012-07-24   @Giants   3   Padres   2 
+2012-07-24  @Orioles   1 Rays  3   
+2012-07-24  Tigers  2  @Indians  3 
+2012-07-24 @Blue Jays  2    Athletics      7    
+2012-07-24 Twins     4   @White Sox   11     
+2012-07-24  Royals      4   @Angels   1     
+2012-07-24   Yankees   2 @Mariners   4    
+2012-07-24  Red Sox       2    @Rangers    1  
+2012-07-25 Nationals   5 @Mets  2 
+2012-07-25  Cubs  2     @Pirates   3    
+2012-07-25 Braves  7 @Marlins  1    
+2012-07-25 @Phillies  7   Brewers    6  O1   
+2012-07-25  @Diamondbacks      2   Rockies   4 
+2012-07-25  Padres  6 @Giants   3   
+2012-07-25 Reds  5  @Astros  3 
+2012-07-25    @Cardinals    3  Dodgers    2   O3  
+2012-07-25 Twins   2 @White Sox   8  
+2012-07-25  Royals   6 @Angels   11   
+2012-07-25   @Mariners     2  Yankees   5 
+2012-07-25  Rays     10 @Orioles  1  
+2012-07-25     @Indians      3 Tigers  5  
+2012-07-25  @Blue Jays      0  Athletics    16 
+2012-07-25  Red Sox     3  @Rangers    5   
+2012-07-26  Dodgers  4 @Cardinals   7  
+2012-07-26   @Astros       3  Pirates   5 
+2012-07-26   @Brewers  2   Nationals  8   
+2012-07-26 Mets  3 @Diamondbacks  1  
+2012-07-26  Rays    2 @Orioles   6  
+2012-07-26  Tigers   3 @Indians  5     
+2012-07-26    @Blue Jays   10 Athletics       4   
+2012-07-26  Royals    1 @Mariners     4  
+2012-07-27  @Cubs  6    Cardinals  9      
+2012-07-27 Padres   7 @Marlins  2 
+2012-07-27 @Braves   6 Phillies  1    
+2012-07-27  Pirates  6     @Astros   5     
+2012-07-27  Nationals   0   @Brewers   6 
+2012-07-27  Reds  3 @Rockies    0  
+2012-07-27 Mets  5    @Diamondbacks      11          
+2012-07-27   @Giants  3 Dodgers  5 O1  
+2012-07-27 Athletics  14   @Orioles  9  
+2012-07-27 Red Sox    3   @Yankees  10 
+2012-07-27  @Blue Jays     8 Tigers    3  
+2012-07-27   White Sox   9 @Rangers     5  
+2012-07-27 Indians  0    @Twins  11 
+2012-07-27   @Angels    3 Rays    1   
+2012-07-27 @Mariners   6 Royals   1 
+2012-07-28 @Cubs    3  Cardinals   2  
+2012-07-28  @Braves  2  Phillies   1      
+2012-07-28   @Astros  3 Pirates  4    
+2012-07-28   Nationals    4  @Brewers  1 
+2012-07-28    Padres  2  @Marlins  4 
+2012-07-28 Reds  9 @Rockies   7  
+2012-07-28 @Diamondbacks     6 Mets      3  
+2012-07-28 Dodgers  10   @Giants   0 
+2012-07-28   Tigers    1 @Blue Jays    5 
+2012-07-28 @Yankees     6 Red Sox  8    
+2012-07-28    @Mariners   4  Royals   3  
+2012-07-28  Athletics   6   @Orioles  1 
+2012-07-28  Indians  5  @Twins      12  
+2012-07-28 @Rangers   2 White Sox    5 
+2012-07-28   @Angels   0   Rays    3 
+2012-07-29 Phillies  2    @Braves  6     
+2012-07-29  @Marlins   5  Padres      4 O1   
+2012-07-29 Pirates  5 @Astros  9    
+2012-07-29 Nationals    11    @Brewers  10   O2  
+2012-07-29   @Cubs      4   Cardinals    2  O1   
+2012-07-29 @Rockies   2     Reds   7  
+2012-07-29  Dodgers    4  @Giants   0 
+2012-07-29 Mets   5  @Diamondbacks  1  
+2012-07-29   @Yankees    2      Red Sox   3     O1 
+2012-07-29  @Blue Jays   1  Tigers  4     
+2012-07-29  Athletics  1 @Orioles    6    
+2012-07-29    Indians  1 @Twins   5  
+2012-07-29 Rays  2   @Angels     0 
+2012-07-29 @Mariners  7 Royals   6  
+2012-07-29     White Sox  0 @Rangers  2     
+2012-07-30 @Reds  5  Padres  11   
+2012-07-30 Marlins  2  @Braves      8 
+2012-07-30  @Cubs  14   Pirates  4 
+2012-07-30 @Brewers  8  Astros  7   
+2012-07-30 Diamondbacks  7 @Dodgers      2 
+2012-07-30 Mets   8 @Giants  7   O1 
+2012-07-30   @Yankees   4  Orioles  5 
+2012-07-30    Tigers  3   @Red Sox  7   
+2012-07-30  Angels   15 @Rangers  8   
+2012-07-30  White Sox  6    @Twins  7     
+2012-07-30 Rays   3 @Athletics     4    O6 
+2012-07-30 @Mariners    4 Blue Jays  1 
+2012-07-31   @Nationals   0   Phillies  8 
+2012-07-31 Padres   6  @Reds   7    
+2012-07-31 Marlins  1    @Braves   7 
+2012-07-31   Astros   1  @Brewers  10   
+2012-07-31  @Rockies  6 Cardinals  11      
+2012-07-31 Diamondbacks   8   @Dodgers   2 
+2012-07-31     Mets   1 @Giants      4 
+2012-07-31   Orioles   11  @Yankees    5      
+2012-07-31 Tigers   1    @Red Sox   4 
+2012-07-31   @Rangers      2 Angels  6 
+2012-07-31 White Sox   4  @Twins  3 
+2012-07-31  @Royals   8 Indians   3 
+2012-07-31  Rays   8 @Athletics   0 
+2012-07-31 @Mariners  7    Blue Jays    2 
+2012-07-31     Pirates     5  @Cubs     0  
+2012-08-01   @Brewers      13  Astros    4 
+2012-08-01 Pirates   8    @Cubs   4     
+2012-08-01  @Dodgers  0  Diamondbacks  4  
+2012-08-01   Phillies  3   @Nationals   2   
+2012-08-01  Padres  4 @Reds  6    
+2012-08-01    Marlins     4    @Braves       2   
+2012-08-01  Cardinals      9 @Rockies      6  
+2012-08-01 Mets   2 @Giants     1   
+2012-08-01   @Yankees  12 Orioles   3 
+2012-08-01 @Twins  2  White Sox      3  
+2012-08-01   Rays   4  @Athletics   1 
+2012-08-01   @Red Sox  5     Tigers   7 
+2012-08-01      Angels    10  @Rangers  11 O1  
+2012-08-01  Indians  2    @Royals  5 
+2012-08-01    Blue Jays  3 @Mariners     5  
+2012-08-02     @Reds  9    Padres  4 
+2012-08-02    @Giants  1 Mets  9 
+2012-08-02 Phillies   0   @Nationals  3 
+2012-08-02  Marlins   1  @Braves    6 
+2012-08-02 Cardinals   2 @Rockies     8 
+2012-08-02  Twins  5  @Red Sox  0   
+2012-08-02 @Rangers   15  Angels    9   
+2012-08-02    Indians  6 @Royals     7 O2  
+2012-08-02  Blue Jays  1 @Athletics   4  
+2012-08-03 @Phillies   2   Diamondbacks  4   
+2012-08-03 Marlins   4 @Nationals   7   
+2012-08-03     Pirates  0 @Reds  3  
+2012-08-03 Astros  1 @Braves     4 
+2012-08-03    Brewers    3   @Cardinals    9   
+2012-08-03 @Rockies   4 Giants     16 
+2012-08-03 Mets    1  @Padres   3 
+2012-08-03  @Dodgers   6   Cubs   1 
+2012-08-03  @Tigers  10   Indians    2 
+2012-08-03 @Yankees    6 Mariners    3      
+2012-08-03     @Red Sox   5    Twins  6  O1 
+2012-08-03  @Rays  2    Orioles     0 
+2012-08-03 @Royals      3   Rangers   5 
+2012-08-03 @White Sox     8  Angels     6  O1 
+2012-08-03  Blue Jays  4   @Athletics    5  O6  
+2012-08-03  @Nationals    2    Marlins    5  
+2012-08-04      Diamondbacks   0   @Phillies    3  
+2012-08-04 Marlins  7 @Nationals     10 
+2012-08-04     @Reds   5    Pirates    4 
+2012-08-04  @Braves       2      Astros   3 
+2012-08-04  Brewers  1 @Cardinals  6   
+2012-08-04 @Rockies  6   Giants  11      
+2012-08-04   Mets    6  @Padres     2  
+2012-08-04 Cubs  1  @Dodgers  3   
+2012-08-04 Mariners  1       @Yankees  0  
+2012-08-04    Blue Jays      3     @Athletics     1  O2 
+2012-08-04   Indians       1     @Tigers   6    
+2012-08-04 @Red Sox  4   Twins  6 
+2012-08-04   Rangers     4  @Royals    2  
+2012-08-04  @White Sox   5    Angels  6 O1      
+2012-08-04      Orioles  4  @Rays  0 
+2012-08-05 @Phillies   5 Diamondbacks  4  
+2012-08-05 @Reds   2 Pirates       6    
+2012-08-05 Marlins  1    @Nationals  4  
+2012-08-05  Astros  1  @Braves   6  
+2012-08-05 @Cardinals    3 Brewers   0  
+2012-08-05 Cubs  6   @Dodgers   7 
+2012-08-05 @Rockies  3 Giants   8 
+2012-08-05     Mets  3     @Padres  7    
+2012-08-05  @Tigers     10  Indians  8 O1  
+2012-08-05  @Yankees   6  Mariners  2 
+2012-08-05   Twins   4 @Red Sox   6    
+2012-08-05    Orioles      1  @Rays   0 O1  
+2012-08-05   Rangers   6 @Royals  7   O1     
+2012-08-05 Angels  2  @White Sox  4 
+2012-08-05 @Athletics  5 Blue Jays  6     
+2012-08-06  @Pirates   4 Diamondbacks  0  
+2012-08-06   Braves  6  @Phillies   1  
+2012-08-06     Nationals   5      @Astros  4   O2 
+2012-08-06 Reds  3 @Brewers  6  
+2012-08-06     @Cardinals   8   Giants  2    
+2012-08-06 Cubs   0     @Padres   2 
+2012-08-06  @Dodgers   0  Rockies  2 
+2012-08-06   @Orioles   3 Mariners  1   
+2012-08-06   Yankees   2 @Tigers   7    
+2012-08-06 Twins  14 @Indians    3  
+2012-08-06 @Red Sox   9  Rangers  2  
+2012-08-06 @White Sox  4 Royals  2     
+2012-08-06  @Athletics    0  Angels    4        
+2012-08-07     @Pirates    4 Diamondbacks    10    
+2012-08-07 @Phillies  3  Braves  0 
+2012-08-07   Marlins   4  @Mets    2  
+2012-08-07 Nationals    3   @Astros   2 O3    
+2012-08-07 @Brewers   3  Reds   1 
+2012-08-07 Giants  4  @Cardinals  2 
+2012-08-07 Cubs  4  @Padres       7   
+2012-08-07 Rockies  3 @Dodgers  1 
+2012-08-07  @Orioles    8    Mariners  7  O5   
+2012-08-07 @Indians    5    Twins        7 
+2012-08-07 @Tigers       6 Yankees  5 
+2012-08-07    Blue Jays     1 @Rays  4  
+2012-08-07    Rangers     6 @Red Sox  3 
+2012-08-07  @White Sox   2 Royals    5    
+2012-08-07 @Athletics   10 Angels  4 
+2012-08-08 Reds  2   @Brewers  3 
+2012-08-08 @Padres  2 Cubs  0 
+2012-08-08  Diamondbacks  6    @Pirates  7  
+2012-08-08  Braves  12 @Phillies  6  
+2012-08-08 Marlins     13 @Mets  0 
+2012-08-08 Nationals     4 @Astros    3   
+2012-08-08 Giants  15 @Cardinals  0 
+2012-08-08  @Dodgers    6      Rockies   4 
+2012-08-08  @Indians  6 Twins  2 
+2012-08-08 Rangers   10  @Red Sox      9   
+2012-08-08  @Athletics     9 Angels  8   
+2012-08-08  @Orioles   9   Mariners   2 
+2012-08-08   Yankees   12  @Tigers     8 
+2012-08-08   Blue Jays   2 @Rays  3   
+2012-08-08 Royals  2   @White Sox    1 
+2012-08-09   @Mets     6  Marlins     1  
+2012-08-09  @Cardinals   3    Giants  1    
+2012-08-09  Diamondbacks  6   @Pirates  3  
+2012-08-09 @Cubs  5   Reds  3 
+2012-08-09     Nationals    5    @Astros   0    
+2012-08-09  @Tigers    3    Yankees   4   
+2012-08-09  @Rays   7       Blue Jays    1   
+2012-08-09 @Orioles  2 Royals    8  
+2012-08-09  Red Sox    3 @Indians   5 
+2012-08-10   @Cubs  8   Reds   10    
+2012-08-10  @Pirates  8 Padres    9  
+2012-08-10 Cardinals    1 @Phillies     3 
+2012-08-10  Braves   4     @Mets  0    
+2012-08-10 @Marlins   2  Dodgers   5  
+2012-08-10 @Astros  4    Brewers   3  
+2012-08-10 @Diamondbacks   1  Nationals    9 
+2012-08-10  @Giants    0 Rockies   3    
+2012-08-10 @Orioles   7  Royals    1   
+2012-08-10 Red Sox   3 @Indians   2 
+2012-08-10 @Blue Jays  4 Yankees    10   
+2012-08-10   @Rangers    2   Tigers   6  
+2012-08-10 Athletics  3      @White Sox  4 
+2012-08-10 @Twins   6   Rays   12 
+2012-08-10  Mariners    5 @Angels  6    
+2012-08-11  Reds  4     @Cubs  2 
+2012-08-11 Rockies  3    @Giants  9  
+2012-08-11    Padres   5 @Pirates   0  
+2012-08-11   @Phillies     1   Cardinals    4     
+2012-08-11 @Astros   6 Brewers   5 O1  
+2012-08-11  Braves  9   @Mets  3 
+2012-08-11   @Marlins  7 Dodgers   3  
+2012-08-11 Nationals  6 @Diamondbacks  5 
+2012-08-11 Yankees   5 @Blue Jays  2 
+2012-08-11 @Indians     5 Red Sox     2 
+2012-08-11  Royals      7     @Orioles    3  
+2012-08-11 @Twins  2    Rays  4    
+2012-08-11   @White Sox  7 Athletics  9   
+2012-08-11 Tigers   1 @Rangers  2 
+2012-08-11 @Angels  4 Mariners   7 
+2012-08-12 Cardinals     7 @Phillies   8 O2 
+2012-08-12 Braves   5  @Mets  6 
+2012-08-12   Dodgers   5  @Marlins   0     
+2012-08-12  Padres   5   @Pirates  11  
+2012-08-12  Brewers     5  @Astros  3   
+2012-08-12 @Cubs  0 Reds   3 
+2012-08-12   Rockies     6  @Giants  9   
+2012-08-12 Nationals  4  @Diamondbacks   7   
+2012-08-12  @Indians  1     Red Sox   14    
+2012-08-12 Yankees     7  @Blue Jays  10 
+2012-08-12 @Orioles    5 Royals   3  
+2012-08-12   @Twins   3 Rays   7 O1 
+2012-08-12 Athletics  3  @White Sox    7  
+2012-08-12  @Rangers    8  Tigers  3  
+2012-08-12 Mariners   4 @Angels  1 
+2012-08-13  Dodgers  5  @Pirates   4 
+2012-08-13 Phillies  4   @Marlins   0 
+2012-08-13 @Braves  1 Padres   4 
+2012-08-13 Astros   1   @Cubs  7 
+2012-08-13   Brewers  6 @Rockies       9 
+2012-08-13   Nationals     14  @Giants   2    
+2012-08-13  Rangers   2 @Yankees   8  
+2012-08-13  White Sox      2  @Blue Jays  3 O2 
+2012-08-13     Tigers    3 @Twins      9   
+2012-08-13 Indians  6 @Angels   2    
+2012-08-13  Rays  4 @Mariners  1   
+2012-08-14   @Pirates    0  Dodgers    11 
+2012-08-14 Mets  0  @Reds   3 
+2012-08-14 @Braves   6 Padres  0 
+2012-08-14 @Marlins    0  Phillies  1  
+2012-08-14 @Cubs  1 Astros    10  
+2012-08-14    Diamondbacks   2 @Cardinals  8    
+2012-08-14   Brewers   6  @Rockies  8  
+2012-08-14 Nationals  1 @Giants  6    
+2012-08-14 @Orioles   7 Red Sox     1    
+2012-08-14 Rangers   0  @Yankees       3  
+2012-08-14  @Blue Jays  2 White Sox   3 
+2012-08-14 @Twins    4  Tigers      8  
+2012-08-14 Athletics  0  @Royals     5   
+2012-08-14  @Angels  9  Indians  6 
+2012-08-14       Rays   2  @Mariners  3 
+2012-08-15 Phillies   2  @Marlins    9   
+2012-08-15   @Cubs     7  Astros      2  
+2012-08-15 Brewers  6  @Rockies  7    
+2012-08-15 @Giants  4 Nationals  6 
+2012-08-15      @Pirates   3   Dodgers   9 
+2012-08-15 Mets    1  @Reds   6 
+2012-08-15  Padres   1   @Braves      6  
+2012-08-15  Diamondbacks  2   @Cardinals  5  
+2012-08-15 Tigers   5 @Twins   1 
+2012-08-15 Rays    0 @Mariners     1 
+2012-08-15     @Orioles   5  Red Sox  3 
+2012-08-15  Rangers     2   @Yankees     3  
+2012-08-15 White Sox      9   @Blue Jays    5  
+2012-08-15 Athletics  2  @Royals     3 
+2012-08-15  Indians  4  @Angels   8    
+2012-08-16      Dodgers  6     @Pirates      10  
+2012-08-16      @Braves  6 Padres  0  
+2012-08-16   Mets   8 @Reds   4    
+2012-08-16   Phillies  4 @Brewers  7 
+2012-08-16    @Cardinals        1  Diamondbacks     2    
+2012-08-16   @Rockies      5 Marlins  3 
+2012-08-16   @Yankees  6   Rangers    10  
+2012-08-16 Red Sox    6   @Orioles    3   
+2012-08-16 @Blue Jays  2 White Sox   7 
+2012-08-16   @Royals  0   Athletics  3 
+2012-08-16 @Angels   0      Rays  7 
+2012-08-17   Mets  4   @Nationals  6  
+2012-08-17 @Reds  7  Cubs    3  
+2012-08-17   Dodgers   3 @Braves    4  O2 
+2012-08-17   @Astros      1       Diamondbacks   3 
+2012-08-17 Phillies    2 @Brewers  6 
+2012-08-17 Pirates    2     @Cardinals  1  
+2012-08-17  Marlins    6 @Rockies  5 
+2012-08-17  @Padres  1   Giants     10 
+2012-08-17    Orioles    3 @Tigers  5   
+2012-08-17 @Yankees   6  Red Sox  4  
+2012-08-17 Rangers        2 @Blue Jays       3          
+2012-08-17    @Royals  4 White Sox   2  
+2012-08-17  Indians  4 @Athletics   6 
+2012-08-17  @Angels   3    Rays    12 
+2012-08-17 Twins   3 @Mariners  5     
+2012-08-18  @Padres    7    Giants    8  
+2012-08-18 Mets    2 @Nationals    0 
+2012-08-18 @Astros  4 Diamondbacks     12 
+2012-08-18    @Brewers  3   Phillies    4 
+2012-08-18 @Braves     2 Dodgers  6 
+2012-08-18 Cubs   3 @Reds  5 
+2012-08-18   Pirates    4   @Cardinals     5   
+2012-08-18 @Rockies   5   Marlins  6    
+2012-08-18 @Blue Jays   1 Rangers    2   
+2012-08-18   Red Sox      4       @Yankees  1  
+2012-08-18 @Tigers      2   Orioles  3     
+2012-08-18 @Royals   9 White Sox   4  
+2012-08-18   @Athletics    8   Indians   5  
+2012-08-18 @Angels   8  Rays   10     
+2012-08-18   @Mariners  3  Twins  2   
+2012-08-18  @Reds  7   Cubs   9 
+2012-08-19  @Reds    5     Cubs   4 
+2012-08-19      Mets      2  @Nationals    5 
+2012-08-19 Dodgers   5    @Braves   0  
+2012-08-19  @Astros  1 Diamondbacks  8     
+2012-08-19 @Brewers   0       Phillies  8   
+2012-08-19 Pirates     6   @Cardinals    3  O10     
+2012-08-19 @Rockies  3   Marlins  2   
+2012-08-19   Giants   1 @Padres  7    
+2012-08-19 Red Sox   1 @Yankees  4  
+2012-08-19 @Tigers   5      Orioles      7  
+2012-08-19  @Blue Jays   2 Rangers   11 
+2012-08-19     @Royals        5 White Sox       2   
+2012-08-19  Rays     8    @Angels      3  
+2012-08-19  Indians  0   @Athletics  7 
+2012-08-19    @Mariners   5    Twins   1  
+2012-08-20 @Phillies  12   Reds      5 
+2012-08-20  Rockies  3   @Mets  1    
+2012-08-20   Cubs   5   @Brewers     9  
+2012-08-20 Marlins  12  @Diamondbacks    3  
+2012-08-20 @Padres       3   Pirates   1  
+2012-08-20 Giants    2  @Dodgers    1   
+2012-08-20 @Rays  5    Royals   1 
+2012-08-20   Orioles  1  @Rangers     5  
+2012-08-20 @White Sox  9 Yankees  6    
+2012-08-20    @Athletics   2  Twins    7 
+2012-08-20   @Mariners  5 Indians       3    
+2012-08-20  Braves    4 @Nationals   5 O4 
+2012-08-21   Reds  5  @Phillies  4 
+2012-08-21    Rockies   6  @Mets    2 
+2012-08-21 @Brewers   5   Cubs    2   
+2012-08-21  Astros  0 @Cardinals  7    
+2012-08-21  Marlins       6 @Diamondbacks  5 O1  
+2012-08-21  @Padres  7  Pirates   5 O1  
+2012-08-21 Giants  4  @Dodgers    1    
+2012-08-21 @Tigers  5 Blue Jays   3 
+2012-08-21 Angels  5    @Red Sox   3  
+2012-08-21 Royals   1    @Rays   0  O1    
+2012-08-21  @Rangers  3   Orioles    5  
+2012-08-21 Yankees     3 @White Sox  7   
+2012-08-21 Indians  1  @Mariners   5    
+2012-08-21   @Nationals  4  Braves     1  
+2012-08-21   @Athletics   4  Twins      1 
+2012-08-22 Cubs  2 @Brewers      3 
+2012-08-22 @Padres     4 Pirates     2   
+2012-08-22 @Phillies  2  Reds     3 
+2012-08-22  Braves       5   @Nationals  1    
+2012-08-22  @Mets  2    Rockies  5 
+2012-08-22  @Cardinals   4 Astros   2   
+2012-08-22 Marlins   2 @Diamondbacks   3 
+2012-08-22  @Dodgers    4    Giants    8 
+2012-08-22   @Rays   5   Royals   3 
+2012-08-22 Twins    1 @Athletics   5 
+2012-08-22      @Mariners    3       Indians   1  
+2012-08-22 @Tigers  3 Blue Jays   2  
+2012-08-22   @Red Sox  3  Angels  7     
+2012-08-22 @Rangers   12 Orioles   3  
+2012-08-22 @White Sox  2        Yankees     1  
+2012-08-22  @Diamondbacks   3  Marlins   0 
+2012-08-23      @Mets  0   Rockies    1    
+2012-08-23  Astros  5  @Cardinals    13   
+2012-08-23  Reds    3 @Phillies  4  O2    
+2012-08-23     @Giants  5   Braves  2  
+2012-08-23  @Tigers   3 Blue Jays  2 O2   
+2012-08-23  Angels   14 @Red Sox   13    O1 
+2012-08-23   @Rays    5      Athletics    0 
+2012-08-23   Twins  6 @Rangers   10  
+2012-08-24 Rockies    3 @Cubs   5  
+2012-08-24 Brewers    6    @Pirates  5  
+2012-08-24 Nationals  2   @Phillies  4  
+2012-08-24     @Mets   1 Astros  3     
+2012-08-24  Cardinals   8 @Reds  5 
+2012-08-24 @Diamondbacks     0  Padres    5  
+2012-08-24     Marlins   4   @Dodgers  11   
+2012-08-24  @Giants  5 Braves  3 
+2012-08-24    Blue Jays     4    @Orioles  6  
+2012-08-24 Yankees   3 @Indians  1 
+2012-08-24  Angels   2 @Tigers    1  
+2012-08-24 @Red Sox    4  Royals     3 
+2012-08-24   @Rays  4 Athletics  5 
+2012-08-24    @Rangers  8   Twins   0 
+2012-08-24  Mariners    8    @White Sox   9  
+2012-08-25    Rockies  4 @Cubs   3 
+2012-08-25   Astros  1   @Mets  3 
+2012-08-25 @Giants     3   Braves      7  
+2012-08-25   Cardinals        2 @Reds    8  
+2012-08-25 Nationals  2   @Phillies  4     
+2012-08-25 Brewers      0    @Pirates  4  
+2012-08-25       Padres     9  @Diamondbacks    3    
+2012-08-25  Marlins       2    @Dodgers   8   
+2012-08-25 Athletics   4    @Rays  2 
+2012-08-25     Twins  3   @Rangers   9    
+2012-08-25 Angels  3  @Tigers  5 
+2012-08-25    Yankees  1    @Indians  3 
+2012-08-25 Blue Jays    2   @Orioles    8   
+2012-08-25  Mariners  4 @White Sox  5  
+2012-08-25  Royals    10 @Red Sox    9  O3    
+2012-08-26  Cardinals      8 @Reds  2   
+2012-08-26 Astros   1 @Mets    2  
+2012-08-26 @Pirates  0     Brewers  7 
+2012-08-26 @Phillies     4 Nationals    1    
+2012-08-26 Rockies  0    @Cubs  5 
+2012-08-26   Marlins  6        @Dodgers  2 
+2012-08-26   @Giants     1  Braves   7  
+2012-08-26  @Diamondbacks   4 Padres  5  
+2012-08-26     Yankees   4  @Indians   2 
+2012-08-26 @Tigers     5 Angels  2    
+2012-08-26   @Red Sox   8 Royals  6  
+2012-08-26     @White Sox   4   Mariners    3  
+2012-08-26 Twins    6    @Rangers  5 
+2012-08-27  @Pirates  3 Cardinals    4 
+2012-08-27    Brewers  15  @Cubs   4  
+2012-08-27 @Rockies  10    Dodgers   0 
+2012-08-27  Reds  3  @Diamondbacks    2 
+2012-08-27 @Padres   3    Braves   0 
+2012-08-27 Royals  1    @Red Sox  5    
+2012-08-27  White Sox  3    @Orioles   4   
+2012-08-27   @Indians  0   Athletics      3  
+2012-08-27     @Yankees     7  Blue Jays  8   O2 
+2012-08-27 @Rangers   6 Rays   5 
+2012-08-27   @Twins     0 Mariners   1 
+2012-08-28 Cardinals   0 @Pirates      9  
+2012-08-28 @Phillies   5  Mets     9    O1   
+2012-08-28  Nationals   0 @Marlins    9  
+2012-08-28 Giants    3 @Astros  2  
+2012-08-28  @Cubs  1 Brewers  4    
+2012-08-28  Dodgers     4  @Rockies       8    
+2012-08-28 @Diamondbacks   2  Reds   5 
+2012-08-28  @Padres   0     Braves   2       
+2012-08-28   White Sox   0    @Orioles   6  
+2012-08-28 @Indians  0 Athletics   7   
+2012-08-28  Blue Jays  1 @Yankees      2   
+2012-08-28  Rays   0  @Rangers   1 
+2012-08-28    @Twins  2  Mariners   5   
+2012-08-28 Tigers     8 @Royals     9  
+2012-08-28 Red Sox   5 @Angels    6     
+2012-08-29   Dodgers    10   @Rockies  8   
+2012-08-29  Reds     6 @Diamondbacks      2 
+2012-08-29 Braves   2  @Padres  8  
+2012-08-29 Cardinals   0 @Pirates   5   
+2012-08-29 Mets  3 @Phillies  2   
+2012-08-29  Nationals   8   @Marlins  4   
+2012-08-29 Giants  6  @Astros   4  
+2012-08-29    Brewers  3 @Cubs  1   
+2012-08-29 @Yankees    5  Blue Jays    8 
+2012-08-29  White Sox  8      @Orioles  1  
+2012-08-29  Athletics  8 @Indians  4 
+2012-08-29   @Rangers  4  Rays     8 
+2012-08-29  Mariners    0  @Twins  10   
+2012-08-29 Tigers   0 @Royals  1  
+2012-08-29 @Angels  10   Red Sox    3 
+2012-08-30 @Phillies  3    Mets  2 
+2012-08-30  Brewers    11   @Cubs   12 
+2012-08-30 @Nationals  8 Cardinals     1 
+2012-08-30 @Astros      4    Giants     8  
+2012-08-30 @Dodgers   0    Diamondbacks  2   
+2012-08-30     White Sox  3 @Orioles      5    
+2012-08-30     Athletics      12       @Indians      7   
+2012-08-30 Mariners    5  @Twins  4 
+2012-08-30    @Blue Jays  2  Rays   0 
+2012-08-30 @Royals   2 Tigers  1    
+2012-08-30  Red Sox     2 @Angels  5 
+2012-08-31 @Cubs  6   Giants  4   
+2012-08-31      @Nationals  10 Cardinals   0 
+2012-08-31 Mets      3     @Marlins   0 
+2012-08-31   Phillies         8   @Braves    5 O1 
+2012-08-31 Reds     9   @Astros     3 
+2012-08-31  Pirates   3 @Brewers     9    
+2012-08-31  Padres   5 @Rockies  4  
+2012-08-31  Diamondbacks   4 @Dodgers    3 O2 
+2012-08-31  Rangers   5   @Indians    3 
+2012-08-31 White Sox  4 @Tigers  7 
+2012-08-31 @Yankees  1  Orioles  6    
+2012-08-31 Rays  1   @Blue Jays    2    
+2012-08-31    @Athletics  20   Red Sox     2   
+2012-08-31    Angels  9 @Mariners  1      
+2012-09-01  @Cubs  2 Giants   5 
+2012-09-01 @Braves  1   Phillies  5  
+2012-09-01  Cardinals   10 @Nationals  9  
+2012-09-01 @Astros   2 Reds  1   
+2012-09-01   Pirates  2   @Brewers  3 
+2012-09-01    @Marlins  3  Mets     5 
+2012-09-01 Padres  1    @Rockies     9  
+2012-09-01 @Dodgers   2   Diamondbacks  1   
+2012-09-01    @Yankees      4  Orioles     3  
+2012-09-01    @Blue Jays  4  Rays  5  
+2012-09-01   @Mariners   2 Angels  5 
+2012-09-01    @Indians    4  Rangers      3    
+2012-09-01    @Tigers  5 White Sox    1      
+2012-09-01 Twins   3 @Royals  1      
+2012-09-01  Red Sox  1  @Athletics    7 
+2012-09-01 @Royals  7    Twins  8 
+2012-09-02 Mets   5 @Marlins  1 
+2012-09-02   Cardinals      3 @Nationals    4  
+2012-09-02     Reds   5 @Astros    3  
+2012-09-02  Pirates   8  @Brewers   12  
+2012-09-02  @Cubs  5   Giants  7    
+2012-09-02  @Rockies    11  Padres  10    
+2012-09-02 Phillies         7 @Braves    8 
+2012-09-02   Diamondbacks  4    @Dodgers   5 
+2012-09-02 Rangers     8  @Indians   3 
+2012-09-02    White Sox  2  @Tigers  4  
+2012-09-02   @Yankees  3  Orioles    8     
+2012-09-02  @Blue Jays  4   Rays   9    
+2012-09-02  @Royals    6   Twins    4      
+2012-09-02      Red Sox   2    @Athletics   6 
+2012-09-02   @Mariners  2   Angels    1    
+2012-09-03    @Nationals   2   Cubs   1 
+2012-09-03  @Marlins   7      Brewers  3      
+2012-09-03  @Reds   2 Phillies  4 
+2012-09-03   Rockies  1  @Braves  6 
+2012-09-03 Astros  5 @Pirates   1  
+2012-09-03  Mets  4  @Cardinals  5      
+2012-09-03   @Giants  9 Diamondbacks  8    O1    
+2012-09-03 Padres    3   @Dodgers  4 O2  
+2012-09-03 @Tigers    2  Indians   3  
+2012-09-03 @Blue Jays  0  Orioles   4  
+2012-09-03 Yankees    3 @Rays  4 
+2012-09-03   Rangers   8 @Royals  4 
+2012-09-03  Angels  8  @Athletics   3 
+2012-09-03   @Mariners  4  Red Sox    1  
+2012-09-03 Twins    2 @White Sox    4 
+2012-09-04 Astros      2   @Pirates  6 
+2012-09-04 Cubs  5  @Nationals   11   
+2012-09-04 @Reds   2 Phillies     1     
+2012-09-04 @Braves   0 Rockies        6 
+2012-09-04   Mets  1  @Cardinals   5 
+2012-09-04  Padres    6  @Dodgers  3    O2   
+2012-09-04 @Giants    6 Diamondbacks  8  O2    
+2012-09-04  @Tigers   2 Indians  3  
+2012-09-04        @Blue Jays      0 Orioles     12   
+2012-09-04 @Rays       5  Yankees     2 
+2012-09-04     @Royals     6 Rangers      3 
+2012-09-04  Twins  18      @White Sox  9  
+2012-09-04 Angels   6 @Athletics    1  
+2012-09-04  @Mariners  3    Red Sox     4  
+2012-09-04     Brewers       8      @Marlins  4      
+2012-09-05 @Reds     2   Phillies  6  
+2012-09-05   Mets  6     @Cardinals     2    
+2012-09-05  Astros  3   @Pirates  6   
+2012-09-05    Cubs   1  @Nationals     9 
+2012-09-05   @Braves   1   Rockies  0      
+2012-09-05  Brewers  8 @Marlins   5       
+2012-09-05  Padres      4  @Dodgers     3  
+2012-09-05 @Giants  2   Diamondbacks     6 
+2012-09-05 Twins   2 @White Sox    6  
+2012-09-05 Angels  7 @Athletics      1 
+2012-09-05 Red Sox  1 @Mariners   2  
+2012-09-05 @Tigers   7 Indians   1 
+2012-09-05      Orioles   4   @Blue Jays   6   
+2012-09-05   @Rays  4   Yankees    6   
+2012-09-05 Rangers     7  @Royals   6  
+2012-09-06 Rockies     0  @Braves   1  
+2012-09-06  @Marlins    6 Brewers    2    
+2012-09-06  @Nationals    9 Cubs   2   
+2012-09-06  Yankees  6 @Orioles   10   
+2012-09-06 @Royals  4   Rangers  5 O1   
+2012-09-07 Cubs    12 @Pirates    2 
+2012-09-07     Rockies     2  @Phillies  3 
+2012-09-07  Marlins    9  @Nationals     7   O1   
+2012-09-07  Astros    5      @Reds       3    
+2012-09-07   Braves   3   @Mets  0  
+2012-09-07 @Cardinals  4   Brewers   5   O4   
+2012-09-07   @Padres  6 Diamondbacks  5   
+2012-09-07  @Giants     5  Dodgers  2  
+2012-09-07 @Orioles   5     Yankees   8 
+2012-09-07  Rangers  1 @Rays  3  O2 
+2012-09-07  Blue Jays  7     @Red Sox    5 
+2012-09-07 @Twins  6 Indians  7 
+2012-09-07  Royals  7   @White Sox  5 
+2012-09-07    Tigers   2 @Angels    3  
+2012-09-07  Athletics  6 @Mariners  1 
+2012-09-08   @Nationals     7  Marlins    6 O1 
+2012-09-08   @Mets   3 Braves  11 
+2012-09-08  @Giants   2 Dodgers    3 
+2012-09-08   @Pirates          3 Cubs  4  
+2012-09-08  Astros    1 @Reds  5    
+2012-09-08  Brewers    6 @Cardinals  3 
+2012-09-08  Diamondbacks  8    @Padres  5 
+2012-09-08     @White Sox    5   Royals     4 
+2012-09-08    Yankees   4  @Orioles     5    
+2012-09-08 @Twins   3 Indians    0    
+2012-09-08 @Red Sox  2 Blue Jays   9 
+2012-09-08    @Rays  2   Rangers  4    O1 
+2012-09-08  Tigers  1 @Angels  6  
+2012-09-08  Athletics  6      @Mariners   1 
+2012-09-09 @Mets   2    Braves   3 O1  
+2012-09-09  @Reds   1 Astros   5  
+2012-09-09    Cubs  4 @Pirates   2  
+2012-09-09  Rockies    2    @Phillies  3 
+2012-09-09 @Nationals   0  Marlins   8 
+2012-09-09   @Cardinals   5  Brewers    4   O1 
+2012-09-09   @Padres   8  Diamondbacks     2 
+2012-09-09  Dodgers  0 @Giants  4    
+2012-09-09 @Orioles  3  Yankees  13   
+2012-09-09 Blue Jays    4    @Red Sox      3    
+2012-09-09   @Rays     6   Rangers       0       
+2012-09-09  Indians   7 @Twins   8   
+2012-09-09     Royals  2   @White Sox     1       O1    
+2012-09-09 @Angels  3 Tigers    2 
+2012-09-09      Athletics    4  @Mariners    2   
+2012-09-09 Rockies  4    @Phillies  7  
+2012-09-10 Marlins        1  @Phillies   3    
+2012-09-10 Pirates   3     @Reds     4 O5  
+2012-09-10  Nationals   5   @Mets   1 
+2012-09-10  Cubs  4  @Astros      1       
+2012-09-10       Braves    1  @Brewers  4    
+2012-09-10 Indians   2 @Twins  7 
+2012-09-10 Tigers    1 @White Sox    6  
+2012-09-10    Giants    5  @Rockies  6     
+2012-09-10  @Angels  1  Athletics  3  
+2012-09-10 @Padres  11 Cardinals     3 
+2012-09-11   Marlins   7 @Phillies   9  
+2012-09-11 Rays   2 @Orioles   9 
+2012-09-11  Mariners  4   @Blue Jays  3 
+2012-09-11    Yankees   3 @Red Sox   4    
+2012-09-11 Pirates     3 @Reds  5  
+2012-09-11  Nationals   5  @Mets   3 
+2012-09-11  Cubs   0 @Astros    1   
+2012-09-11  Indians  4 @Rangers  6   
+2012-09-11  @Brewers     5 Braves   0   
+2012-09-11 @White Sox   3   Tigers  5  
+2012-09-11    Royals     9  @Twins  1    
+2012-09-11 Giants     9     @Rockies    8 
+2012-09-11  Dodgers   0 @Diamondbacks   1    
+2012-09-11  Athletics     6  @Angels   5   
+2012-09-11   @Padres   6  Cardinals   4  
+2012-09-12  @Phillies  3      Marlins    1   
+2012-09-12  @Padres    3 Cardinals  2 
+2012-09-12   @Orioles    3  Rays  2  
+2012-09-12          @Blue Jays  2  Mariners     3      
+2012-09-12   Yankees        5 @Red Sox    4  
+2012-09-12 Pirates  1   @Reds     2  
+2012-09-12  Nationals   2 @Mets   0  
+2012-09-12 Cubs  5  @Astros    1  
+2012-09-12   @Rangers   5 Indians  2 
+2012-09-12   @Brewers     8 Braves   2  
+2012-09-12 Tigers     8  @White Sox  6  
+2012-09-12  @Twins    5 Royals     10 
+2012-09-12 Giants    8   @Rockies  3   
+2012-09-12    @Diamondbacks  3  Dodgers   2 
+2012-09-12   @Angels  1   Athletics  4   
+2012-09-13   Rays  2  @Orioles  3 O5  
+2012-09-13   Athletics   0  @Angels     6     
+2012-09-13    @Blue Jays  8   Mariners  3 
+2012-09-13  @Red Sox   0    Yankees  2    
+2012-09-13  Indians     5 @Rangers   4 
+2012-09-13 @Astros      6      Phillies    4  
+2012-09-13   @Twins    4  Royals  3 O1   
+2012-09-13 @Dodgers   1 Cardinals      2 
+2012-09-14   Pirates  4  @Cubs  7 
+2012-09-14    Tigers   4  @Indians    0   
+2012-09-14 @Yankees   4    Rays  6  
+2012-09-14  @Blue Jays  5  Red Sox   8 
+2012-09-14  Reds   0  @Marlins   4        
+2012-09-14  Nationals  1 @Braves  2 
+2012-09-14  @Astros     6  Phillies   12 
+2012-09-14 Mariners  3 @Rangers  9  
+2012-09-14 @Royals    7    Angels  9    
+2012-09-14        White Sox   6 @Twins   0 
+2012-09-14 Mets     7 @Brewers   3  
+2012-09-14   @Diamondbacks  2 Giants  6 
+2012-09-14  Orioles   2 @Athletics  3   
+2012-09-14 Rockies        7 @Padres    4  
+2012-09-14 @Dodgers    8   Cardinals      5 
+2012-09-15 Pirates  7   @Cubs   6 
+2012-09-15 @Blue Jays      2  Red Sox   3  
+2012-09-15 @Indians    3 Tigers   5 
+2012-09-15  @Yankees    5  Rays  3 
+2012-09-15 @Braves       5  Nationals  4   
+2012-09-15   @Astros  5 Phillies   0 
+2012-09-15   Angels  2 @Royals  3  
+2012-09-15 Reds     4  @Marlins   6  
+2012-09-15  Mets   6    @Brewers   9 
+2012-09-15  Mariners   8 @Rangers  6 
+2012-09-15  @Diamondbacks  2    Giants    3   
+2012-09-15      Rockies    3   @Padres  4    
+2012-09-15 @Athletics   5 Orioles   2    
+2012-09-15      Cardinals  3  @Dodgers    4 
+2012-09-15    White Sox  5   @Twins  3     
+2012-09-16 Reds  5 @Marlins   4 O2 
+2012-09-16  Nationals     1  @Braves  5    
+2012-09-16 @Astros     7 Phillies  6 
+2012-09-16  Mets  0     @Brewers    3   
+2012-09-16     Pirates      9 @Cubs  13   
+2012-09-16    @Dodgers   2  Cardinals  5 O3    
+2012-09-16  @Padres   12 Rockies   11 
+2012-09-16 @Diamondbacks    10    Giants    2 
+2012-09-16 @Yankees     6  Rays  4  
+2012-09-16 @Blue Jays      5   Red Sox   0 
+2012-09-16    @Twins  2  White Sox     9   
+2012-09-16   @Royals  3 Angels  4 
+2012-09-16 @Indians   7 Tigers  6 
+2012-09-16   Mariners   1  @Rangers   2 
+2012-09-16  @Athletics    5  Orioles  9   
+2012-09-17 @Mets   1  Phillies  3    
+2012-09-17  Braves   7  @Marlins  5 
+2012-09-17    Pirates  3  @Cubs     0  
+2012-09-17  Rockies      1   @Giants   2   
+2012-09-17 @Rays    2         Red Sox   5 
+2012-09-17 Orioles       10  @Mariners   4  
+2012-09-17  Tigers     4      @White Sox     5   
+2012-09-18 @Pirates      0    Brewers    6  
+2012-09-18         Braves      3  @Marlins  4 O1    
+2012-09-18   Reds  3      @Cubs    1     
+2012-09-18 Astros  1    @Cardinals  4  
+2012-09-18 @Diamondbacks   3  Padres   2 
+2012-09-18   @Giants    6  Rockies    3  
+2012-09-18   Twins   6      @Indians    5  O3 
+2012-09-18   Athletics      2  @Tigers      12  
+2012-09-18   @Rays    5     Red Sox   7   
+2012-09-18     @Royals  2   White Sox  3  
+2012-09-18    Rangers  3 @Angels    11 
+2012-09-18  @Mariners      2 Orioles    4     O9  
+2012-09-19 Dodgers    1   @Nationals  3  
+2012-09-19    @Pirates    1 Brewers  3  
+2012-09-19 Braves          3   @Marlins    0  
+2012-09-19 @Mets   2  Phillies    3  
+2012-09-19   @Cubs   5 Reds    6    O2  
+2012-09-19 @Cardinals  5   Astros   0 
+2012-09-19     Padres       2    @Diamondbacks  6  
+2012-09-19 @Giants   7    Rockies  1  
+2012-09-19 Twins  6  @Indians  4 
+2012-09-19  Athletics     2  @Tigers   6 
+2012-09-19   Blue Jays  2   @Yankees  4 
+2012-09-19 @Rays     13 Red Sox    3 
+2012-09-19    White Sox      0   @Royals  3 
+2012-09-19 @Angels  2 Rangers  6  
+2012-09-19  Orioles   3  @Mariners  1    O2      
+2012-09-19  Blue Jays     1 @Yankees  2   
+2012-09-19  Dodgers  7  @Nationals  6 
+2012-09-20   @Cardinals  5     Astros  4  
+2012-09-20 @Cubs   3     Reds    5 
+2012-09-20    Padres  6 @Diamondbacks   5    
+2012-09-20 @Giants    9 Rockies  2    
+2012-09-20    Brewers   9  @Pirates         7 
+2012-09-20  @Nationals    4  Dodgers   1 
+2012-09-20 Twins    3 @Indians  4  O1     
+2012-09-20   Athletics  12    @Tigers        4  
+2012-09-20  Blue Jays   7  @Yankees  10  
+2012-09-20 Red Sox    4     @Rays   7    
+2012-09-20 @Royals    4   White Sox  3 
+2012-09-20     Rangers   3 @Angels   1  
+2012-09-20 Phillies  16 @Mets  1  
+2012-09-21  Cardinals  4   @Cubs   5  O2        
+2012-09-21   @Phillies  6 Braves     2  
+2012-09-21  Brewers   4     @Nationals  2 
+2012-09-21  @Mets  7    Marlins      3    
+2012-09-21  @Reds  1   Dodgers      3   O1 
+2012-09-21 @Astros  7  Pirates  1  
+2012-09-21   @Rockies  5  Diamondbacks  15  
+2012-09-21 Padres   1   @Giants   5 
+2012-09-21  Athletics   1 @Yankees     2      O1     
+2012-09-21     Orioles      4       @Red Sox  2 
+2012-09-21 Blue Jays   1    @Rays      12 
+2012-09-21 @Royals   6  Indians    3 
+2012-09-21 White Sox    2   @Angels    6 
+2012-09-21  @Mariners  6 Rangers  3 
+2012-09-22  @Phillies  2  Braves  8   
+2012-09-22 @Cubs  4      Cardinals   5 O1 
+2012-09-22  @Nationals   10   Brewers  4 
+2012-09-22 Marlins   3  @Mets      4 
+2012-09-22    Pirates    1  @Astros   4  
+2012-09-22  Dodgers  0    @Reds    6  
+2012-09-22  Diamondbacks   8 @Rockies  7     
+2012-09-22 @Giants   8 Padres  4 
+2012-09-22   Athletics  9 @Yankees  10  O5  
+2012-09-22   Orioles  9 @Red Sox  6 O3   
+2012-09-22 Rangers     0 @Mariners    1 
+2012-09-22    Twins    0   @Tigers   8  
+2012-09-22    Indians   3    @Royals     5    
+2012-09-22  @Rays    11  Blue Jays    5  
+2012-09-22      @Angels  4  White Sox   2    
+2012-09-23 Braves  2 @Phillies    1 
+2012-09-23  @Reds     3 Dodgers  5  
+2012-09-23 @Mets   3 Marlins  2  
+2012-09-23      @Nationals  2  Brewers   6    
+2012-09-23 Pirates  8   @Astros     1  
+2012-09-23 Cardinals     6 @Cubs  3 
+2012-09-23 Diamondbacks  10      @Rockies       7   
+2012-09-23  Padres  6   @Giants  4 
+2012-09-23    Twins  10 @Tigers   4 
+2012-09-23  @Yankees  4  Athletics   5  
+2012-09-23  Orioles  1    @Red Sox   2  
+2012-09-23      @Rays    3 Blue Jays     0  
+2012-09-23 @Royals     4   Indians  15  
+2012-09-23   @Angels        4   White Sox   1   
+2012-09-23 Rangers     3    @Mariners  2 
+2012-09-23  Twins   2 @Tigers   1 O1   
+2012-09-24  Brewers    2    @Nationals   12 
+2012-09-24 Pirates   2 @Mets    6 
+2012-09-24 Cardinals  6 @Astros     1 
+2012-09-24 Diamondbacks  2  @Rockies  4 
+2012-09-24    @Orioles    4    Blue Jays  1  
+2012-09-24   Athletics   4 @Rangers      5   
+2012-09-24 Indians   4 @White Sox    5   
+2012-09-24 @Twins  3 Yankees  6 
+2012-09-24  Blue Jays    9 @Orioles  5 
+2012-09-24 @Tigers    6 Royals  2   
+2012-09-25 @Mets     6  Pirates    10 
+2012-09-25     @Braves       4 Marlins   3 
+2012-09-25     Cardinals      4    @Astros  0   
+2012-09-25  Cubs  5     @Rockies  10   
+2012-09-25 @Padres  2 Dodgers  1 
+2012-09-25     Blue Jays   4  @Orioles  0   
+2012-09-25   @Tigers   2  Royals  0  
+2012-09-25  Rays  5 @Red Sox     2  
+2012-09-25  Yankees  4  @Twins    5    
+2012-09-25    @White Sox     3 Indians      4  
+2012-09-25 @Angels  5 Mariners  4 
+2012-09-25  @Phillies     6  Nationals  3    
+2012-09-25   @Reds   4 Brewers   2 
+2012-09-25        Athletics  3   @Rangers  2   O1    
+2012-09-25 @Giants       2 Diamondbacks      7  
+2012-09-26 Cardinals   0 @Astros   2  
+2012-09-26    @Padres    2    Dodgers  8  
+2012-09-26 Nationals      8 @Phillies  4  
+2012-09-26  Pirates    0   @Mets    6   
+2012-09-26 Brewers  8  @Reds      1 
+2012-09-26   Marlins  0    @Braves     3    
+2012-09-26 Cubs   0  @Rockies  6  
+2012-09-26 @Giants     6 Diamondbacks  0 
+2012-09-26  Yankees    8   @Twins  2  
+2012-09-26 Blue Jays       2 @Orioles    12  
+2012-09-26 @Tigers   5 Royals     4  
+2012-09-26 Rays  4   @Red Sox  2  
+2012-09-26   Athletics    9  @Rangers  3  
+2012-09-26  Indians  6 @White Sox  4  
+2012-09-26  @Angels  4 Mariners    3    
+2012-09-27  Brewers    1   @Reds  2 
+2012-09-27  @Mets    6 Pirates     5   
+2012-09-27   @Rockies  7 Cubs  5 
+2012-09-27   @Giants     7 Diamondbacks   3 
+2012-09-27       @Phillies  3 Nationals  7   
+2012-09-27  Marlins   2    @Braves  6 
+2012-09-27 @Padres  4   Dodgers   8   
+2012-09-27 @Tigers  5 Royals    4   
+2012-09-27  Athletics  7  @Rangers  9 
+2012-09-27 @Angels      4  Mariners  9 
+2012-09-27       @Blue Jays  6   Yankees     0  
+2012-09-27 Rays  3    @White Sox  2  
+2012-09-28  @Pirates      0 Reds    1 
+2012-09-28  @Marlins  2  Phillies  1 
+2012-09-28 @Braves      1      Mets    3  
+2012-09-28   Astros   7   @Brewers  6    
+2012-09-28 @Cardinals   12  Nationals   2  
+2012-09-28    @Diamondbacks    8  Cubs    3     
+2012-09-28  Giants  3  @Padres  1    
+2012-09-28     Rockies   0 @Dodgers    8  
+2012-09-28  Red Sox   1 @Orioles  9    
+2012-09-28    @Indians    8  Royals  5 
+2012-09-28  @Blue Jays  4 Yankees     11 
+2012-09-28   Angels   7   @Rangers    4   
+2012-09-28   @Twins   4   Tigers    2 
+2012-09-28   Rays    1 @White Sox   3 
+2012-09-28  Mariners  2  @Athletics  8  
+2012-09-29 @Dodgers  3  Rockies  0   
+2012-09-29 @Pirates    2 Reds    1  
+2012-09-29 @Brewers  9   Astros       5    
+2012-09-29      Mets  0      @Braves  2   
+2012-09-29 @Marlins  5   Phillies  9 
+2012-09-29  @Cardinals  4  Nationals  6 O1 
+2012-09-29        @Diamondbacks   8 Cubs   2 
+2012-09-29   Giants  3   @Padres   7  
+2012-09-29  Yankees     2       @Blue Jays  3   
+2012-09-29   Tigers   6 @Twins     4  
+2012-09-29  Red Sox   3      @Orioles  4  
+2012-09-29    @Indians     6  Royals          7 O5 
+2012-09-29    Rays    10  @White Sox     4   
+2012-09-29     Mariners  4 @Athletics    7 O1 
+2012-09-30   Phillies   4  @Marlins  1    
+2012-09-30 Reds  4 @Pirates   3 
+2012-09-30   Mets     2 @Braves     6     
+2012-09-30 Astros  7 @Brewers    0 
+2012-09-30 @Cardinals    10    Nationals  4  
+2012-09-30  Rockies  1  @Dodgers  7  
+2012-09-30  @Padres  5  Giants      7 
+2012-09-30     @Diamondbacks   2      Cubs  7 
+2012-09-30    Royals  3    @Indians  15  
+2012-09-30  Yankees  9 @Blue Jays  6 
+2012-09-30 Red Sox  3 @Orioles  6  
+2012-09-30  Tigers  2     @Twins    1 
+2012-09-30   @White Sox   2    Rays  6  
+2012-09-30    Angels      5   @Rangers   4      
+2012-09-30 Mariners   2     @Athletics   5  
+2012-09-30 @Rangers  8   Angels     7  
+2012-10-01  @Pirates     2 Braves  1  
+2012-10-01 Phillies  2  @Nationals   0 
+2012-10-01   @Cubs     0 Astros    3    
+2012-10-01  @Brewers   5  Padres  3 
+2012-10-01  @Cardinals  4      Reds  2   
+2012-10-01 @Diamondbacks   5   Rockies   7   O4   
+2012-10-01  @Dodgers  3    Giants   2 
+2012-10-01  White Sox     11 @Indians   0  
+2012-10-01   Red Sox   2 @Yankees      10      
+2012-10-01  Twins    5 @Blue Jays   6   O1 
+2012-10-01  Orioles   3      @Rays  5  
+2012-10-01     Tigers  6  @Royals  3   
+2012-10-01   @Athletics  4  Rangers  3      
+2012-10-01    Angels       8 @Mariners      4 
+2012-10-01 @Marlins  3   Mets  2 
+2012-10-02 Braves  1 @Pirates      5    
+2012-10-02  @Marlins      4    Mets  3 O2  
+2012-10-02   Astros   3    @Cubs     0  
+2012-10-02  @Cardinals  1   Reds     3      
+2012-10-02        Rockies     3     @Diamondbacks  5    
+2012-10-02    @Dodgers   3 Giants  4      
+2012-10-02   @Indians  4    White Sox  3  O3 
+2012-10-02    @Rays     0  Orioles  1   
+2012-10-02   Tigers   2  @Royals  4 
+2012-10-02    Rangers  1 @Athletics   3 
+2012-10-02 Angels    1 @Mariners  6 
+2012-10-02    Red Sox   3  @Yankees   4   O3  
+2012-10-02  @Nationals  4    Phillies   2  
+2012-10-02   @Blue Jays   4   Twins  3 
+2012-10-02 @Brewers  4     Padres   3    
+2012-10-03 Braves  4     @Pirates  0  
+2012-10-03   Phillies    1   @Nationals     5  
+2012-10-03 @Cubs  5 Astros  4 
+2012-10-03  Mets     4 @Marlins   2      
+2012-10-03 Padres  7 @Brewers   6 
+2012-10-03    @Cardinals    1  Reds    0 
+2012-10-03 Rockies    2  @Diamondbacks   1   
+2012-10-03 Giants  1 @Dodgers  5       
+2012-10-03  Rangers        5     @Athletics  12   
+2012-10-03  @Indians  0      White Sox  9 
+2012-10-03 @Yankees   14  Red Sox  2 
+2012-10-03   @Blue Jays  2 Twins  1  
+2012-10-03 Orioles  1 @Rays  4 
+2012-10-03 Tigers  1 @Royals      0 
+2012-10-03  @Mariners  12 Angels  0    
+2012-10-05     @Braves     3 Cardinals    6   P   
+2012-10-05  @Rangers    1  Orioles   5       P 
+2012-10-06 Athletics   1  @Tigers      3   P 
+2012-10-06 @Giants  2 Reds    5 P 
+2012-10-07  Athletics  4 @Tigers   5  P   
+2012-10-07   @Cardinals   2 Nationals  3   P 
+2012-10-07 Yankees   7  @Orioles    2  P  
+2012-10-07   @Giants    0 Reds   9   P 
+2012-10-08 @Cardinals       12 Nationals   4     P 
+2012-10-08    Yankees      2   @Orioles    3 P 
+2012-10-09  @Reds  1 Giants  2  PO1   
+2012-10-09 Tigers     0  @Athletics  2   P  
+2012-10-10  Cardinals  8 @Nationals  0    P  
+2012-10-10       Giants    8  @Reds  3 P 
+2012-10-10  Orioles  2  @Yankees   3  PO3  
+2012-10-10 Tigers  3 @Athletics    4   P 
+2012-10-11 Giants  6 @Reds  4   P    
+2012-10-11  @Nationals    2  Cardinals   1  P  
+2012-10-11  @Yankees    1   Orioles   2    PO4 
+2012-10-11 @Athletics         0  Tigers     6  P 
+2012-10-12  Orioles   1 @Yankees   3 P  
+2012-10-12 @Nationals     7 Cardinals  9  P   
+2012-10-13 @Yankees  4 Tigers  6  PO3    ALCS  
+2012-10-14   @Yankees  0 Tigers  3  P   ALCS   
+2012-10-14 Cardinals    6  @Giants     4  P    NLCS 
+2012-10-15  @Giants   7  Cardinals   1      P NLCS 
+2012-10-16  Yankees  1     @Tigers   2 P ALCS  
+2012-10-17 Giants      1 @Cardinals     3     P   NLCS 
+2012-10-18 Yankees   1   @Tigers   8  P ALCS    
+2012-10-18  @Cardinals   8 Giants  3    P  NLCS     
+2012-10-19 @Cardinals    0 Giants    5  P NLCS  
+2012-10-21 @Giants  6   Cardinals  1    P      NLCS 
+2012-10-22   Cardinals    0    @Giants    9  P NLCS 
+2012-10-24 @Giants  8 Tigers  3  P World      Series  
+2012-10-25 @Giants  2   Tigers  0      P    World  Series    
+2012-10-27  Giants  2  @Tigers    0 P World Series 
+2012-10-28    Giants   4 @Tigers  3 PO1 World     Series    
